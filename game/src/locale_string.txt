@@ -1,0 +1,2366 @@
+" %s ±ºÁÖ ÈÄº¸¿¡¼­ »èÁ¦ÇÏ¿´½À´Ï´Ù";
+"%s Savas arasindan ?kartildi ";
+
+" %s ±ºÁÖ·Î ÀÔ¸í Çß½À´Ï´Ù.";
+"%s ?parator aday?olarak g?terildi. ";
+
+" %s ±ºÁÖ¸£ Á¦°Å ÇÏ¿´½À´Ï´Ù..";
+"%s ?paratorluk g?evini b?akt? ";
+
+" %s ±ºÁÖ¸¦ Á¦°Å ÇÒ¼ö ¾ø½À´Ï´Ù.";
+"%s ?paratoru g?evi b?akamaz. ";
+
+" %s ´Â ±ºÁÖ ÈÄº¸°¡ ¾Æ´Õ´Ï´Ù.";
+"%s ?parator olmak i?n bir aday de?l. ";
+
+" %s ´Â ±ºÁÖ·Î ÀÔ¸íÇÒ¼ö ¾ø½À´Ï´Ù .";
+"%s ?paratorlu? aday olamaz. ";
+
+" (¸¸·áÀÏ : %d³â %d¿ù %dÀÏ)";
+"(Prosed?: %d y- %d m - %d d) ";
+
+"%d ³ÉÀ» ÅõÀÚÇÏ¼Ì½À´Ï´Ù.";
+"%d Yang yat?d?. ";
+
+"%d ³ÉÀ» È¹µæÇÏ¼Ì½À´Ï´Ù.";
+"%d Yang Kazand?. ";
+
+"%d ·¹º§ÀÌ µÇ¾î¾ß ´Ù½Ã ¿°»öÇÏ½Ç ¼ö ÀÖ½À´Ï´Ù.";
+"Saçın?tekrar boyabilmek i?n %d Seviyeye ulaşman gerekli. ";
+
+"%d Á¾·ù %d ¸¶¸® ³¬À½";
+"%d n? %d Yakalad?. ";
+
+"%d ÃÊ ÈÄ¿¡ ±ºÁÖÀÇ Ãàº¹À» »ç¿ëÇÒ ¼ö ÀÖ½À´Ï´Ù";
+"%d saniye sonra ?parator Kutsamas??kullanabilirsin. ";
+
+"%d ÃÊ°£ ÄğÅ¸ÀÓÀÌ Àû¿ëÁßÀÔ´Ï´Ù.";
+"Serbest s?e yaklaş? %d saniye. ";
+
+"%d ÃÊÈÄ ¸ñÀûÁö·Î ÀÌµ¿µË´Ï´Ù.";
+"Yapt?tan sonra %d saniye i?nde hedefte olacaks?. ";
+
+"%d%% È®·ü·Î °üÅë °ø°İ";
+"M?rak Sald???şans?%d%% ";
+
+"%d%% È®·ü·Î ÀûÅğÄ¡½Ã °æÇèÄ¡ Ãß°¡ »ó½Â";
+"E?r kazan?san tecr?e %d%% artacak. ";
+
+"%d%% È®·ü·Î ÀûÅğÄ¡½Ã µ· 2¹è µå·Ó";
+"E?r kazan?san Yang %d%% artacak. ";
+
+"%d%% È®·ü·Î ÀûÅğÄ¡½Ã »ı¸í·Â È¸º¹";
+"Kazand?tan sonra enerji puan? %d%% oran?da artacak. ";
+
+"%d%% È®·ü·Î ÀûÅğÄ¡½Ã ¾ÆÀÌÅÛ 2¹è µå·Ó";
+"E?r kazan?san ele ge?rilen nesne %d%% artacak. ";
+
+"%d%% È®·ü·Î ÀûÅğÄ¡½Ã Á¤½Å·Â È¸º¹";
+"E?r kazan?san mana  %d%% artacak. ";
+
+"%d%% È®·ü·Î Ä¡¸íÅ¸ °ø°İ";
+"Kritik sald??şans?%d%% ";
+
+"%d%% È®·ü·Î Å¸°İ½Ã »ó´ë Àü½Å·Â ¼Ò¸ğ";
+"%d%% oran?da mana düşmandan al?acak. ";
+
+"%d%% È®·ü·Î ÇÇÇØ½Ã Á¤½Å·Â È¸º¹";
+"Oran?da mana emiliyor %d%% ";
+
+"%dºĞÀÇ °áÁ¦½Ã°£ÀÌ Ãß°¡ µÇ¾ú½À´Ï´Ù. (°áÁ¦¹øÈ£ %d)";
+"%d oyun s?esi hesab??a eklendi. (?eme Numaras?%d) ";
+
+"%dÀÇ °æÇèÄ¡¸¦ È¹µæÇß½À´Ï´Ù.";
+"%d Tecr?e Puan?Kazand?. ";
+
+"%dÃÊ ³²¾Ò½À´Ï´Ù.";
+"%d saniye sonra oyun kapanacak. ";
+
+"%dÃÊ ÈÄ °ÔÀÓÀÌ ¼Ë´Ù¿î µË´Ï´Ù.";
+"Oyun %d saniye sonra kapanacak. ";
+
+"%s : %d ¸¶¸®";
+"%s: %d ";
+
+"%s Olu sayisi %d mob sayisi oldurmek %d boss sayisi oldurmek %d ¼ºÁö ÁøÀÔ¼ö %d";
+"%s Olu sayisi %d mob sayisi oldurmek %d boss sayisi oldurmek %d ?????¼Æ %d ";
+
+"%s SP¼Ò¸ğ: %d";
+"%s SP Kullan?? %d ";
+
+"%s ±æµå°¡ %s ±æµå¿ÍÀÇ ÀüÀï¿¡¼­ ½Â¸® Çß½À´Ï´Ù.";
+"Lonca savaş?da %s, %s loncas?a karş?kazand? ";
+
+"%s ±æµå°¡ %s ±æµåÀÇ ±ê¹ßÀ» »©¾Ñ¾Ò½À´Ï´Ù!";
+"%s, %s loncas?? bayrağın?ele ge?rdi! ";
+
+"%s ±æµå¿Í %s ±æµå »çÀÌÀÇ ÀüÀïÀÌ ¹«½ÂºÎ·Î ³¡³µ½À´Ï´Ù.";
+"%s ile %s aras?daki savaş beraberlikle sonu?and? ";
+
+"%s ±æµå¿Í %s ±æµå »çÀÌÀÇ ÀüÀïÀÌ Ãë¼ÒµÇ¾ú½À´Ï´Ù.";
+"%s loncas?ve %s loncas?aras?daki savaş iptal oldu! ";
+
+"%s ±æµå¿Í %s ±æµå°¡ Àá½Ã ÈÄ ÀüÀïÀ» ½ÃÀÛÇÕ´Ï´Ù!";
+"%s ile %s aras?daki lonca savaş?bir ka?dakika i?nde başlayacak! ";
+
+"%s ±æµå¿Í %s ±æµå°¡ ÀüÀïÀ» ½ÃÀÛÇÏ¿´½À´Ï´Ù!";
+"%s ile %s aras?da lonca savaş?başlad? ";
+
+"%s ±æµåÀÇ %sÀÌ %d%% Áõ°¡Çß½À´Ï´Ù!";
+"%s loncas?a ?el düşen nesne oran?%d%% art??d? ";
+
+"%s ±æµåÀÇ %sÀÌ Á¤»óÀ¸·Î µ¹¾Æ¿Ô½À´Ï´Ù.";
+"%s loncas?a ?el düşen nesne oran?%s art??d? ";
+
+"%s ±æµåÀÇ ±ê¹ßÀ» %s ´ÔÀÌ È¹µæÇÏ¿´½À´Ï´Ù.";
+"Lonca %s , %s taraf?dan ele ge?rildi. ";
+
+"%s ´Ô°úÀÇ ±³È¯ÀÌ ¼º»ç µÇ¾ú½À´Ï´Ù.";
+"%s ile olan ticaret başar?la ger?kleşti. ";
+
+"%s ´Ô¿¡°Ô ÆÄÆ¼°¡ÀÔ ½ÅÃ»À» Çß½À´Ï´Ù.";
+"%s Seni grubuna davet ediyor.Kat?mak istiyor musun? ";
+
+"%s ´ÔÀ¸·Î ºÎÅÍ Ä£±¸ µî·ÏÀ» °ÅºÎ ´çÇß½À´Ï´Ù.";
+"%s daveti reddetti. ";
+
+"%s ´ÔÀº Á¢¼ÓµÇ ÀÖÁö ¾Ê½À´Ï´Ù.";
+"%s oyunda de?l. ";
+
+"%s ´ÔÀº Á¤»óÀûÀ¸·Î Ãâ¸¶¸¦ ÇÏ¿´½À´Ï´Ù.";
+"%s oyuncu zaten oylamada. ";
+
+"%s ´ÔÀÌ ´ë·Ã¿¡¼­ ½Â¸®ÇÏ¿´½À´Ï´Ù.";
+"D?lloyu %s kazand? ";
+
+"%s ´ÔÀÌ ½Â¸®ÇÏ¿´½À´Ï´Ù.";
+"%s kazand? ";
+
+"%s ºí·°! (%ld%%)";
+"%s engelle! (%ld%%) ";
+
+"%s ¾ÆÀÌÅÛ À» È¹µæÇÏ¼Ì½À´Ï´Ù";
+"%s Kazand?. ";
+
+"%s ¾ÆÀÌÅÛÀÌ ÇÊ¿äÇÕ´Ï´Ù";
+"%s gerekli. ";
+
+"%s ¿¡°Ô·Î ÀÌµ¿ÇÕ´Ï´Ù";
+"%s yan?a naklet. ";
+
+"%s ¿¡¼­ ¼ÒÄÏ ºüÁú¶§±îÁö ³²Àº ½Ã°£ %d";
+"Soketin silinmesine %s s?e kald? %d . ";
+
+"%s È¸ÇÇ! (%ld%%)";
+"%s ka? (%ld%%) ";
+
+"%s: Á¸ÀçÇÏÁö ¾Ê´Â ±æµå ÀÔ´Ï´Ù.";
+"%s: Lonca bulunamad? ";
+
+"%s[%ld]°¡ °ø°İ À§Ä¡: %d %d";
+"%s[%ld] Sald??pozisyonu: %d %d ";
+
+"%s´Ô°úÀÇ ´ë°á ½ÃÀÛ!";
+"%s ile olan savaş başlad? ";
+
+"%s´ÔÀÌ ´ë°á½ÅÃ»À» Çß½À´Ï´Ù. ½Â³«ÇÏ·Á¸é ´ë°áµ¿ÀÇ¸¦ ÇÏ¼¼¿ä.";
+"%s seni savaşa davet ediyor! ";
+
+"%s¸¦ ±¸¿ü½À´Ï´Ù.";
+"?mberlerden ge?rek %s yerleştir. ";
+
+"%s¿¡ ¹ÚÇôÀÖ´ø º¸¼®ÀÌ »ç¶óÁı´Ï´Ù.";
+"%s m?evheri g?den kayboldu. ";
+
+"%s¿¡°Ô ´ë°á½ÅÃ»À» Çß½À´Ï´Ù.";
+"%s savaşa davet ettiniz. ";
+
+"%sÀÇ %sÀÌ %d%% Áõ°¡Çß½À´Ï´Ù!";
+"%s i?n %s, %d%% art??d? ";
+
+"%sÀÇ %sÀÌ Á¤»óÀ¸·Î µ¹¾Æ¿Ô½À´Ï´Ù.";
+"%s i?n %s kazanma oran?%d%% normal haline d?d? ";
+
+"(%s) ±æµå°¡ »ı¼ºµÇ¾ú½À´Ï´Ù. [ÀÓ½Ã]";
+"(%s) Lonca kuruldu. [Temporary] ";
+
+". ³ÊÈñ°¡ ¼ºÁöÀÇ ¼öÈ£ÀÚ¸¦ Àâ°Ô µÈ´Ù¸é ³ÊÈñ´Â ¼ºÁöÀÇ ÁÖÀÎÀÌ µÈ´Ù.[ENTER][ENTER] ";
+"E?r Kutsal Alan? Bek?sini ?d??sen, onun sahibi olacaks?.[ENTER][ENTER] ";
+
+"[%s±ºÁÖ] : %s  ";
+"[%sH??dar] : %s ";
+
+"[%s±ºÁÖ] : %s  º¸À¯±İ¾× %lld ";
+"[%sH??dar] : %s Yang Sahip olunan %lld ";
+
+"[TEST_ONLY]ÇöÀç ±¹°í : %d ";
+"[TEST_ONLY]Vergi : %d ";
+
+"<±æµå> %d ½ºÅ³À» »ç¿ëÇÔ (%d, %d) to %lu";
+"<Lonca> %d Kullan?an Beceri (%d, %d) to %lu. ";
+
+"<±æµå> ÄğÅ¸ÀÓÀÌ ³¡³ªÁö ¾Ê¾Æ ±æµå ½ºÅ³À» »ç¿ëÇÒ ¼ö ¾ø½À´Ï´Ù.";
+"<Lonca> ? anda bu beceriyi kullanamam. ";
+
+"<±æµå> %luÀÇ °æÇèÄ¡¸¦ ÅõÀÚÇÏ¿´½À´Ï´Ù.";
+"<Lonca> %lu Tecr?e kullan?d? ";
+
+"<±æµå> %luÀÇ ¿ë½Å·ÂÀ» È¸º¹ÇÏ¿´½À´Ï´Ù.";
+"<Lonca> %lu Ejderha Hayaleti y?lendi. ";
+
+"<±æµå> %s ±æµå°¡ ±æµåÀüÀ» °ÅºÎÇÏ¿´½À´Ï´Ù.";
+"<Lonca> %s Lonca savaş??reddetti. ";
+
+"<±æµå> [%s] ±æµå°¡ »ı¼ºµÇ¾ú½À´Ï´Ù.";
+"<Lonca> [%s] Lonca kuruldu. ";
+
+"<±æµå> °¡Áö°í ÀÖ´Â µ·ÀÌ ºÎÁ·ÇÕ´Ï´Ù.";
+"<Lonca> Yeterli Yang yok. ";
+
+"<±æµå> °æÇèÄ¡ ÅõÀÚ¿¡ ½ÇÆĞÇÏ¿´½À´Ï´Ù.";
+"<Lonca> Tecr?e kullan??başar?? oldu. ";
+
+"<±æµå> °øÁö±ÛÀ» ÀÛ¼ºÇÒ ±ÇÇÑÀÌ ¾ø½À´Ï´Ù.";
+"<Lonca> Duyuru yapamazs?. ";
+
+"<±æµå> ±×·¯ÇÑ »ç¶÷À» Ã£À» ¼ö ¾ø½À´Ï´Ù.";
+"<Lonca> ?tenen oyuncu bulunamad? ";
+
+"<±æµå> ±×·± ±æµå°¡ ¾ø½À´Ï´Ù.";
+"<Lonca> Lonca bulunamad? ";
+
+"<±æµå> ±æµå ±İ°í¿¡¼± ±æµåÀå¸¸ Ãâ±İÇÒ ¼ö ÀÖ½À´Ï´Ù.";
+"<Lonca> Sadece Lonca Master?Yang verebilir. ";
+
+"<±æµå> ±æµå »ı¼º¿¡ ½ÇÆĞÇÏ¿´½À´Ï´Ù.";
+"<Lonca> Lonca kurulamad? ";
+
+"<±æµå> ±æµå ½ºÅ³ ·¹º§À» º¯°æÇÒ ±ÇÇÑÀÌ ¾ø½À´Ï´Ù.";
+"<Lonca> Lonca Becerilerinin Seviyesini de?ştiremezsin. ";
+
+"<±æµå> ±æµå ½ºÅ³Àº ±æµåÀü Áß¿¡¸¸ »ç¿ëÇÒ ¼ö ÀÖ½À´Ï´Ù.";
+"<Lonca> Bu Lonca Becerileri sadece savaşlarda kullan?abilir. ";
+
+"<±æµå> ±æµå ÀÌ¸§ÀÌ ÀûÇÕÇÏÁö ¾Ê½À´Ï´Ù.";
+"<Lonca> Lonca ad?hatal? ";
+
+"<±æµå> ±æµå¸¦ »ı¼ºÇÒ ¼ö ¾ø½À´Ï´Ù.";
+"<Lonca> Lonca kuramazs?. ";
+
+"<±æµå> ±æµå¸¦ ÇØ»êÇÑ Áö %dÀÏÀÌ Áö³ªÁö ¾ÊÀº »ç¶÷Àº ±æµå¿¡ ÃÊ´ëÇÒ ¼ö ¾ø½À´Ï´Ù.";
+"<Lonca> D?enlemeden sonraki  %d g? i?nde ?eleri davet edebilirsin. ";
+
+"<±æµå> ±æµå¿¡ ¼ÓÇØÀÖÁö ¾Ê½À´Ï´Ù.";
+"<Lonca> Bu Loncaya ait de?l. ";
+
+"<±æµå> ±æµå¿ø %s ´ÔÀ» °­Á¦ Å»Åğ ½ÃÄ×½À´Ï´Ù.";
+"<Lonca> Lonca ?esi %s Loncadan at?d? ";
+
+"<±æµå> ±æµå¿øÀ» °­Á¦ Å»Åğ ½ÃÄ×½À´Ï´Ù.";
+"<Lonca> Lonca ?esini att?. ";
+
+"<±æµå> ±æµå¿øÀ» °­Á¦ Å»Åğ ½ÃÅ³ ±ÇÇÑÀÌ ¾ø½À´Ï´Ù.";
+"<Lonca> Lonca ?elerini atamazs?. ";
+
+"<±æµå> ±æµå¿øÀ» ÃÊ´ëÇÒ ±ÇÇÑÀÌ ¾ø½À´Ï´Ù.";
+"<Lonca> Loncaya birini davet edemezsin. ";
+
+"<±æµå> ±æµåÀåÀ¸·Î Á÷À§¸¦ º¯°æÇÒ ¼ö ¾ø½À´Ï´Ù.";
+"<Lonca> Kendini Lonca Master?yapamazs?. ";
+
+"<±æµå> ±æµåÀåÀÇ ±ÇÇÑÀº º¯°æÇÒ ¼ö ¾ø½À´Ï´Ù.";
+"<Lonca> Lonca Master?? g??de?ştirilemez. ";
+
+"<±æµå> ±æµåÀåÀÇ Á÷À§ ÀÌ¸§Àº º¯°æÇÒ ¼ö ¾ø½À´Ï´Ù.";
+"<Lonca> Lonca Master?? g??de?ştirilemez. ";
+
+"<±æµå> ±æµåÀåÀÇ Á÷À§´Â º¯°æÇÒ ¼ö ¾ø½À´Ï´Ù.";
+"<Lonca> Lonca Master?? s?alamas?de?ştirilemez. ";
+
+"<±æµå> ±æµåÀü¿¡ ´ëÇÑ ±ÇÇÑÀÌ ¾ø½À´Ï´Ù.";
+"<Lonca> Lonca savaş?i?n kimse yetkilendirilmedi. ";
+
+"<±æµå> ±æµåÀüÀ» ÇÏ±â À§ÇØ¼± ÃÖ¼ÒÇÑ %d¸íÀÌ ÀÖ¾î¾ß ÇÕ´Ï´Ù.";
+"<Lonca> En az %d oyuncu Lonca savaş?a kat?mal? ";
+
+"<±æµå> ±æµåÀüÀÌ Ãë¼Ò µÇ¾ú½À´Ï´Ù.";
+"<Lonca> Lonca savaş?iptal oldu. ";
+
+"<±æµå> ±æµåÀüÁß¿¡´Â »ç³É¿¡ µû¸¥ ÀÌÀÍÀÌ ¾ø½À´Ï´Ù.";
+"<Lonca> Lonca savaş?s?as?da avlanman? herhangi bir avantaj?yok. ";
+
+"<±æµå> ´Ù¸¥ Á¦±¹ »ç¶÷À» ±æµå¿¡ ÃÊ´ëÇÒ ¼ö ¾ø½À´Ï´Ù.";
+"<Lonca> Di?r Krall?lardan olan oyuncular?Loncaya davet edemezsin. ";
+
+"<±æµå> ´õÀÌ»ó Àå¼ö¸¦ ÁöÁ¤ÇÒ ¼ö ¾ø½À´Ï´Ù.";
+"<Lonca> Daha fazla Lider se?mezsin. ";
+
+"<±æµå> µ·ÀÌ ºÎÁ·ÇÕ´Ï´Ù.";
+"<Lonca> Yeterli Yang yok. ";
+
+"<±æµå> ·¡´õ Á¡¼ö°¡ %d Á¡ÀÌ µÇ¾ú½À´Ï´Ù";
+"<Lonca> S?alama %d Puana y?seldi. ";
+
+"<±æµå> ·¹´õ Á¡¼ö°¡ ¸ğÀÚ¶ó¼­ ±æµåÀüÀ» ÇÒ ¼ö ¾ø½À´Ï´Ù.";
+"<Lonca> Lonca seviyesi savaşa kat?abilmek i?n ?k düş?. ";
+
+"<±æµå> »èÁ¦ÇÒ ¼ö ¾ø´Â ±ÛÀÔ´Ï´Ù.";
+"<Lonca> Mesaj silinemez. ";
+
+"<±æµå> »ó´ë°¡ %d Ã¤³Î¿¡ ÀÖ½À´Ï´Ù. (ÇöÀç Ã¤³Î %d)";
+"<Lonca>  Oyuncu şuan %d kanal?da. (Bulunulan kanal: %d) ";
+
+"<±æµå> »ó´ë°¡ ¿Â¶óÀÎ »óÅÂ°¡ ¾Æ´Õ´Ï´Ù.";
+"<Lonca> Oyuncu ?vrim dış? ";
+
+"<±æµå> »ó´ë¹æ ±æµå°¡ ÀÌ¹Ì ÀüÀï Áß ÀÔ´Ï´Ù.";
+"<Lonca> Bu Lonca zaten savaşa kat??or. ";
+
+"<±æµå> »ó´ë¹æ ±æµåÀÇ ±æµå¿ø ¼ö°¡ ºÎÁ·ÇÏ¿© ±æµåÀüÀ» ÇÒ ¼ö ¾ø½À´Ï´Ù.";
+"<Lonca> Lonca, Lonca Savaş?a kat?abilmek i?n yeterli ?eye sahip de?l. ";
+
+"<±æµå> »ó´ë¹æ ±æµåÀÇ ·¹´õ Á¡¼ö°¡ ¸ğÀÚ¶ó¼­ ±æµåÀüÀ» ÇÒ ¼ö ¾ø½À´Ï´Ù.";
+"<Lonca> Lonca bir savaşta yer almak i?n yeterince S?alama Puan?a sahip de?l. ";
+
+"<±æµå> »ó´ë¹æ ±æµåÀÇ Àüºñ°¡ ºÎÁ·ÇÏ¿© ±æµåÀüÀ» ÇÒ ¼ö ¾ø½À´Ï´Ù.";
+"<Lonca> Bu Lonca, Lonca savaş?yapmak i?n yeterli Yang'a sahip de?l. ";
+
+"<±æµå> »ó´ë¹æÀÌ °°Àº ±æµå°¡ ¾Æ´Õ´Ï´Ù.";
+"<Lonca> Oyuncu ayn?Loncada de?l. ";
+
+"<±æµå> »ó´ë¹æÀÌ ±æµå ÃÊ´ë °ÅºÎ »óÅÂÀÔ´Ï´Ù.";
+"<Lonca> Oyuncu Lonca davetini reddetti. ";
+
+"<±æµå> »ó´ë¹æÀÌ ÀÌ¹Ì ´Ù¸¥ ±æµå¿¡ ¼ÓÇØÀÖ½À´Ï´Ù.";
+"<Lonca> Bu oyuncu zaten başka bir Loncaya ?e. ";
+
+"<±æµå> ¿ë½Å·Â È¸º¹¿¡ ½ÇÆĞÇÏ¿´½À´Ï´Ù.";
+"<Lonca> Ejderha Hayaleti Y?lenemedi. ";
+
+"<±æµå> ¿ë½Å·ÂÀÌ ºÎÁ·ÇÕ´Ï´Ù. (%d, %d)";
+"<Lonca> Yeterli Ejderha ruhu yok. (%d, %d) ";
+
+"<±æµå> ÀÌ¹Ì °°Àº ÀÌ¸§ÀÇ ±æµå°¡ ÀÖ½À´Ï´Ù.";
+"<Lonca> Bu Lonca ad?zaten kullan??or. ";
+
+"<±æµå> ÀÌ¹Ì ´Ù¸¥ ÀüÀï¿¡ ÂüÀü Áß ÀÔ´Ï´Ù.";
+"<Lonca> Loncan? zaten başka bir savaşa kat??or. ";
+
+"<±æµå> ÀÌ¹Ì ÀüÀï ÁßÀÎ ±æµåÀÔ´Ï´Ù.";
+"<Lonca> Loncan? zaten başka bir savaşa kat??or. ";
+
+"<±æµå> ÀÌ¹Ì ÀüÀïÀÌ ¿¹¾àµÈ ±æµå ÀÔ´Ï´Ù.";
+"<Lonca> Bu Lonca zaten başka bir Lonca savaş?i?n kay? edilmiş. ";
+
+"<±æµå> Àß¸øµÈ ±İ¾×ÀÔ´Ï´Ù.";
+"<Lonca> Yanlış Yang toplam? ";
+
+"<±æµå> Àå±ºÀ» ÁöÁ¤ÇÒ ±ÇÇÑÀÌ ¾ø½À´Ï´Ù.";
+"<Lonca> Lideri se?mezsin. ";
+
+"<±æµå> ÀûÇÕÇÏÁö ¾ÊÀº Á÷À§ ÀÌ¸§ ÀÔ´Ï´Ù.";
+"<Lonca> Bu s?a ismi ge?rsiz. ";
+
+"<±æµå> Àüºñ°¡ ºÎÁ·ÇÏ¿© ±æµåÀüÀ» ÇÒ ¼ö ¾ø½À´Ï´Ù.";
+"<Lonca> Lonca savaş?a kat?mak i?n yeterli Yang yok. ";
+
+"<±æµå> Á¦°øÇÏ°íÀÚ ÇÏ´Â °æÇèÄ¡°¡ ³²Àº °æÇèÄ¡º¸´Ù ¸¹½À´Ï´Ù.";
+"<Lonca> Sa?anan tecr?e kaybedilenden tecr?eden daha fazla. ";
+
+"<±æµå> Á÷À§ ±ÇÇÑÀ» º¯°æÇÒ ±ÇÇÑÀÌ ¾ø½À´Ï´Ù.";
+"<Lonca> Pozisyonunu de?ştiremezsin. ";
+
+"<±æµå> Á÷À§ ÀÌ¸§À» º¯°æÇÒ ±ÇÇÑÀÌ ¾ø½À´Ï´Ù.";
+"<Lonca> S?a ?mini de?ştiremezsin. ";
+
+"<±æµå> Á÷À§¸¦ º¯°æÇÒ ±ÇÇÑÀÌ ¾ø½À´Ï´Ù.";
+"<Lonca> Pozisyonunu de?ştiremezsin. ";
+
+"<±æµå> ÃÖ´ë ±æµå¿ø ¼ö¸¦ ÃÊ°úÇß½À´Ï´Ù.";
+"<Lonca>Savas varken davet edemezsin ";
+
+"<Lonca> Lonca kapasitesi maximum seviyeye ulaşt?";
+"<Lonca> Hen? Lonca Becerilerini kullanamazs?. ";
+
+"<±æµå> Å»ÅğÇÑ ÈÄ %dÀÏ ÀÌ³»¿¡´Â ±æµå¸¦ ¸¸µé ¼ö ¾ø½À´Ï´Ù.";
+"<Lonca> Bir Loncadan ayr?d?tan sonra  %d g? yeni Lonca kuramazs?. ";
+
+"<±æµå> Å»ÅğÇÑ ÈÄ %dÀÏÀÌ Áö³ªÁö ¾ÊÀº »ç¶÷Àº ±æµå¿¡ ÃÊ´ëÇÒ ¼ö ¾ø½À´Ï´Ù.";
+"<Lonca> Oyuncu %d g? sonra davet edilebilir. ";
+
+"<±æµå> ÇØ»êÇÑ ÈÄ %dÀÏ ÀÌ³»¿¡´Â ±æµå¸¦ ¸¸µé ¼ö ¾ø½À´Ï´Ù.";
+"<Lonca> Lonca silindikten sonra, %d g? yeni Lonca kuramazs?. ";
+
+"<¸Ş½ÅÁ®> %s ´ÔÀ» ¸Ş½ÅÀú¿¡¼­ »èÁ¦ÇÏ¿´½À´Ï´Ù.";
+"<Messenger> %s listenden sildin. ";
+
+"<¸Ş½ÅÁ®> %s ´ÔÀ» Ä£±¸·Î Ãß°¡ÇÏ¿´½À´Ï´Ù.";
+"<Messenger> %s arkadaş olarak eklendi. ";
+
+"<¸Ş½ÅÁ®> ¿î¿µÀÚ´Â ¸Ş½ÅÁ®¿¡ Ãß°¡ÇÒ ¼ö ¾ø½À´Ï´Ù.";
+"<Messenger> Arkadaş listenize bir GM ekleyemezsiniz. ";
+
+"<Ã¢°í> °Å¸®°¡ ¸Ö¾î¼­ Ã¢°í¸¦ ¿­ ¼ö ¾ø½À´Ï´Ù.";
+"<Depo> Depo ile aran?daki mesafa fazla oldu? i?n depoyu a?mazs?. ";
+
+"<Ã¢°í> ±âÁ¸ ºñ¹Ğ¹øÈ£°¡ Æ²·È½À´Ï´Ù.";
+"<Depo> Yanlış şifre girdin. ";
+
+"<Ã¢°í> ¿Å±æ ¼ö ¾ø´Â À§Ä¡ÀÔ´Ï´Ù.";
+"<Depo> Hareket m?k? de?l. ";
+
+"<Ã¢°í> ÀÌ ¾ÆÀÌÅÛÀº ³ÖÀ» ¼ö ¾ø½À´Ï´Ù.";
+"<Depo> Eşya depolanamaz. ";
+
+"<Ã¢°í> Àß¸øµÈ ¾ÏÈ£¸¦ ÀÔ·ÂÇÏ¼Ì½À´Ï´Ù.";
+"<Depo> Yanlış şifre girdin. ";
+
+"<Ã¢°í> Ã¢°í ºñ¹Ğ¹øÈ£°¡ º¯°æµÇ¾ú½À´Ï´Ù.";
+"<Depo> Depo şifresi de?şti. ";
+
+"<Ã¢°í> Ã¢°í°¡ ÀÌ¹Ì ¿­·ÁÀÖ½À´Ï´Ù.";
+"<Depo> Depo zaten açık. ";
+
+"<Ã¢°í> Ã¢°í¸¦ ´İÀºÁö 10ÃÊ ¾È¿¡´Â ¿­ ¼ö ¾ø½À´Ï´Ù.";
+"<Depo> Yeniden depo a?ak i?n 10 saniye beklemelisin. ";
+
+"<Äù½ºÆ®> ÀÌÀü¿¡ °°Àº º¸»óÀ» ¹ŞÀº ÀûÀÌ ÀÖ¾î ´Ù½Ã ¹ŞÁö ¾Ê½À´Ï´Ù.";
+"<G?ev> ?? zaten verildi, ?k ge?kald?. ";
+
+"<ÆÄÆ¼> %s ´ÔÀÌ ÆÄÆ¼ °ÅºÎ »óÅÂÀÔ´Ï´Ù.";
+"<Grup> %s Grup davetini reddetti. ";
+
+"<ÆÄÆ¼> %s´ÔÀÇ ÆÄÆ¼¿¡ Âü°¡ÇÏ¼Ì½À´Ï´Ù.";
+"<Grup> %s Grubunuza kat?d? ";
+
+"<ÆÄÆ¼> %s´ÔÀÌ ÆÄÆ¼ ÃÊ´ë¸¦ °ÅÀıÇÏ¼Ì½À´Ï´Ù.";
+"<Grup> %s davetini reddetti. ";
+
+"<ÆÄÆ¼> %s´ÔÀÌ ÆÄÆ¼¿¡ Âü°¡ÇÏ¼Ì½À´Ï´Ù.";
+"<Grup> %s Grubunuza kat?d? ";
+
+"<ÆÄÆ¼> -30 ~ +30 ·¹º§ ÀÌ³»ÀÇ »ó´ë¹æ¸¸ ÃÊ´ëÇÒ ¼ö ÀÖ½À´Ï´Ù.";
+"<Grup> -30 ile +30 Seviye aralığ?da olan oyuncular?davet edebilirsin. ";
+
+"<ÆÄÆ¼> °üÀü ¸ğµå¿¡¼± ÆÄÆ¼ ÃÊ´ë¸¦ ÇÒ ¼ö ¾ø½À´Ï´Ù.";
+"<Grup> ?leyici modundayken oyuncu davet edemezsin. ";
+
+"<ÆÄÆ¼> ´Ù¸¥ Á¦±¹°ú ÆÄÆ¼¸¦ ÀÌ·ê ¼ö ¾ø½À´Ï´Ù.";
+"<Grup> Di?r Krall?tan olan oyuncularla grup oluşturamazs?. ";
+
+"<ÆÄÆ¼> ´Ù¸¥ ÆÄÆ¼¿øÀ» Å»Åğ½ÃÅ³ ¼ö ¾ø½À´Ï´Ù.";
+"<Grup> Grup ?elerini atamazs?. ";
+
+"<ÆÄÆ¼> ´ë»óÀ» ¼ÒÈ¯ÇÒ ¼ö ¾ø½À´Ï´Ù.";
+"<Grup> Hedefi ?ğıramazs?. ";
+
+"<ÆÄÆ¼> ´õ ÀÌ»ó ÆÄÆ¼¿øÀ» ÃÊ´ëÇÒ ¼ö ¾ø½À´Ï´Ù.";
+"<Grup> Gruba daha fazla oyuncu davet edemezsin. ";
+
+"<ÆÄÆ¼> ´øÀü ¾È¿¡¼­´Â ÆÄÆ¼ ÃÊ´ë¸¦ ÇÒ ¼ö ¾ø½À´Ï´Ù.";
+"<Grup> Zindandayken oyuncu davet edemezsin. ";
+
+"<ÆÄÆ¼> ´øÀü ¾È¿¡¼­´Â ÆÄÆ¼ ÃÊ´ë¿¡ ÀÀÇÒ ¼ö ¾ø½À´Ï´Ù.";
+"<Grup> Zindandayken davet kabul edemezsin. ";
+
+"<ÆÄÆ¼> ´øÀü ¾È¿¡¼­´Â ÆÄÆ¼¿¡¼­ ³ª°¥ ¼ö ¾ø½À´Ï´Ù.";
+"<Grup> Zindandayken gruptan ayr?amazs?. ";
+
+"<ÆÄÆ¼> ´øÀü ¾È¿¡¼­´Â ÆÄÆ¼¿¡¼­ Ãß¹æÇÒ ¼ö ¾ø½À´Ï´Ù.";
+"<Grup> Zindandayken oyuncu atamazs?. ";
+
+"<ÆÄÆ¼> ´øÁ¯³»¿¡¼­´Â ÆÄÆ¼¸¦ ³ª°¥ ¼ö ¾ø½À´Ï´Ù.";
+"<Grup> Zindandayken gruptan ayr?amazs?. ";
+
+"<ÆÄÆ¼> ´øÁ¯³»¿¡¼­´Â ÆÄÆ¼¿øÀ» Ãß¹æÇÒ ¼ö ¾ø½À´Ï´Ù.";
+"<Grup> Zindandayken oyuncu atamazs?. ";
+
+"<ÆÄÆ¼> ¸®´õ¸¸ º¯°æÇÒ ¼ö ÀÖ½À´Ï´Ù.";
+"<Grup> Bunu sadece Grup Lideri de?ştirebilir. ";
+
+"<ÆÄÆ¼> »óÅÂ¸¦ º¯°æÇÏ·Á´Â »ç¶÷ÀÌ ÆÄÆ¼¿øÀÌ ¾Æ´Õ´Ï´Ù.";
+"<Grup> Hedef grubunuzun ?esi de?l. ";
+
+"<ÆÄÆ¼> ¼­¹ö ¹®Á¦·Î ÆÄÆ¼ °ü·Ã Ã³¸®¸¦ ÇÒ ¼ö ¾ø½À´Ï´Ù.";
+"<Grup> Sunucu grup iste?ni ger?kleştiremedi. ";
+
+"<ÆÄÆ¼> ¼ÒÈ¯ÇÏ·Á´Â ´ë»óÀ» Ã£À» ¼ö ¾ø½À´Ï´Ù.";
+"<Grup> Hedef bulunamad? ";
+
+"<ÆÄÆ¼> ÀÌ¹Ì %s´ÔÀº ÆÄÆ¼¿¡ ¼ÓÇØ ÀÖ½À´Ï´Ù.";
+"<Grup> %s zaten bu grupta. ";
+
+"<ÆÄÆ¼> ÆÄÆ¼ ±â¼úÀº ÆÄÆ¼Àå¸¸ »ç¿ëÇÒ ¼ö ÀÖ½À´Ï´Ù.";
+"<Grup> Grup Becerilerini sadece grup lideri kullanabilir. ";
+
+"<ÆÄÆ¼> ÆÄÆ¼ ÃÊ´ë¿¡ ÀÀÇÒ ¼ö ¾ø½À´Ï´Ù.";
+"<Grup> Daveti kabul edemezsin. ";
+
+"<ÆÄÆ¼> ÆÄÆ¼°¡ ÇØ»ê µÇ¾ú½À´Ï´Ù.";
+"<Grup> Grup silindi. ";
+
+"<ÆÄÆ¼> ÆÄÆ¼³» ÃÖ°í ·¹º§ º¸´Ù 30·¹º§ÀÌ ³·¾Æ ÃÊ´ëÇÒ ¼ö ¾ø½À´Ï´Ù.";
+"<Grup> Bu oyuncuyu Seviyesi ?k düş? oldu? i?n davet edemezsin. ";
+
+"<ÆÄÆ¼> ÆÄÆ¼³» ÃÖÀú ·¹º§ º¸´Ù 30·¹º§ÀÌ ³ô¾Æ ÃÊ´ëÇÒ ¼ö ¾ø½À´Ï´Ù.";
+"<Grup> Bu oyuncuyu Seviyesi ?k y?sek oldu? i?n davet edemezsin. ";
+
+"<ÆÄÆ¼> ÆÄÆ¼¿¡¼­ ³ª°¡¼Ì½À´Ï´Ù.";
+"<Grup> Gruptan ayr?d?. ";
+
+"<ÆÄÆ¼> ÆÄÆ¼¿¡¼­ Ãß¹æ´çÇÏ¼Ì½À´Ï´Ù.";
+"<Grup> Gruptan at?d?. ";
+
+"<ÆÄÆ¼> ÆÄÆ¼¿äÃ»À» ÇÑ Ä³¸¯ÅÍ¸¦ Ã£À»¼ö ¾ø½À´Ï´Ù.";
+"<Grup> Davet edilen oyuncu ?vrimi? de?l. ";
+
+"<ÆÄÆ¼> ÆÄÆ¼¿øÀ» ÃÊ´ëÇÒ ¼ö ÀÖ´Â ±ÇÇÑÀÌ ¾ø½À´Ï´Ù.";
+"<Grup> Birini davet etmek i?n yetkin yok. ";
+
+"<ÆÄÆ¼> ÆÄÆ¼¿øÀ» ÇöÀç À§Ä¡·Î ¼ÒÈ¯ÇÒ ¼ö ¾ø½À´Ï´Ù.";
+"<Grup> Bulundu?n pozisyonda grup ?elerini ?ğıramazs?. ";
+
+"<ÆÄÆ¼> ÆÄÆ¼ÀÇ ÀÎ¿øÁ¦ÇÑÀÌ ÃÊ°úÇÏ¿© ÆÄÆ¼¿¡ Âü°¡ÇÒ ¼ö ¾ø½À´Ï´Ù.";
+"<Grup> Bu  grup dolu oldu? i?n kat?amazs?. ";
+
+"10ÃÊµÚ ´ÙÀ½ ÆÇÀ» ½ÃÀÛÇÕ´Ï´Ù.";
+"Bir sonraki raund 10 saniye i?risinde başlayacak. ";
+
+"10ÃÊµÚ ´ë·ÃÀÌ ½ÃÀÛµË´Ï´Ù.";
+"Savaş 10 saniye i?risinde başlayacak. ";
+
+"10ÃÊµÚ ¸¶À»·Î µÇµ¹¾Æ°©´Ï´Ù.";
+"10 saniye i?risinde şehre ış?lanmış olacaks??. ";
+
+"10ÃÊµÚ ¸¶À»·Î ÀÌµ¿ÇÕ´Ï´Ù.";
+"10 Saniye i?risinde şehre ış?lanmış olacaks??. ";
+
+"10ÃÊµÚ ÆÇÁ¤ÇÏ°Ú½À´Ï´Ù.";
+"Sonucu 10 saniye i?nde alacaks?. ";
+
+"10ÃÊÈÄ ÀÚµ¿À¸·Î Á¢¼ÓÀÌ Á¾·áµÇ¸ç,";
+"10 saniye i?nde ba?ant?? kesilecek. ";
+
+"1-50 »çÀÌÀÇ ¼öÄ¡¸¦ ¼±ÅÃÇØÁÖ¼¼¿ä";
+"1 - 50 aras?da bir numara se? ";
+
+"1ºĞ ÀÌ³»¿¡ ¾Æ¹«µµ Á¢¼ÓÇÏÁö ¾ÊÀ¸¸é ±æµåÀüÀÌ ÀÚµ¿ Á¾·áµË´Ï´Ù.";
+"E?r düşman bulunamazsa Lonca Savaş?otomatik olarak biter. ";
+
+"20¾ï ³ÉÀ» ÃÊ°úÇÏ¿© »óÁ¡À» ¿­¼ö°¡ ¾ø½À´Ï´Ù";
+"Ticaret yapamazs?? çünk?beraberinizde 2 milyardan fazla  Yang taş?orsunuz. ";
+
+"20¾ï³ÉÀÌ ÃÊ°úÇÏ¿© ¹°Ç°À» ÆÈ¼ö ¾ø½À´Ï´Ù.";
+"2 milyardan fazla Yang taş?san, ticaret yapamazs?. ";
+
+"5ºĞ ÈÄ¿¡ Á¤»óÀûÀ¸·Î Á¢¼ÓÇÏ½Ç¼ö ÀÖ½À´Ï´Ù.";
+"5 dakika sonra tekrar ba?anabilirsiniz. ";
+
+"5ÃÊ µÚ Æ²¸®½Å ºĞµéÀ» ¹Ù±ùÀ¸·Î ÀÌµ¿ ½ÃÅ°°Ú½À´Ï´Ù.";
+"Yanlış cevap veren kat??c?ar 5 saniye sonra ış?lanacak. ";
+
+"O ÀÔ´Ï´Ù";
+"Evet(O) ";
+
+"OX ¹®Á¦ ½ºÅ©¸³Æ® ·Îµù ¼º°ø";
+"OX Quiz metni y?lendi. ";
+
+"OX ¹®Á¦ ½ºÅ©¸³Æ® ·Îµù ½ÇÆĞ";
+"OX Quiz metni y?lenemedi. ";
+
+"OX »óÇ°À» Áö±ŞÇÏ¿´½À´Ï´Ù. ID: %d ¼ö·®: %d";
+"OX ?? verildi. ?im: %d De?r: %d ";
+
+"OX ÀÌº¥Æ®°¡ ½ÃÀÛµÇ¾ú½À´Ï´Ù.";
+"OX Etkinlik başlad? ";
+
+"OX ÀÌº¥Æ®°¡ ÀÌ¹Ì ÁøÇàÁßÀÔ´Ï´Ù(flag: %d)";
+"Etkinlik zaten devam ediyor. (flag: %d) ";
+
+"OX ÀÌº¥Æ®¸¦ ¸¶Ä¡°Ù½À´Ï´Ù.";
+"OX Etkinli? bitecek. ";
+
+"OXÀÌº¥Æ® ¸ÊÀ» ¸ÕÀú ´İ¾Æ ÁÖ¼¼¿ä.(Flag: %d)";
+"?ce OX Etkinlik haritas??kapat.(Flag: %d) ";
+
+"OXÀÌº¥Æ®°¡ ´İÈ÷Áö ¾Ê¾Ò°Å³ª, ÄûÁî ÃâÁ¦ÁßÀÔ´Ï´Ù.(flag: %d)";
+"OX Etkinlik hen? bitmedi, hatalar oluştu.(flag: %d) ";
+
+"OXÀÌº¥Æ®°¡ ¿­·Á ÀÖÁö ¾Ê°Å³ª ¹®Á¦ ÃâÁ¦ÁßÀÔ´Ï´Ù.(Flag: %d)";
+"OX Etkinlik bitti, hata oluşmad?(Flag: %d) ";
+
+"OXÀÌº¥Æ®¸¦ °­Á¦ Á¾·á ½ÃÅµ´Ï´Ù.";
+"OX Etkinlik bitti. ";
+
+"OXÀÌº¥Æ®ÀÇ ³ª¸ÓÁö ÀÎ¿ø ±â·ÏÀ» ½ÇÆĞÇß½À´Ï´Ù.";
+"OX Etkinlikteki di?r kat??c?ar listelenemedi. ";
+
+"OXÀÌº¥Æ®ÀÇ ³ª¸ÓÁö ÀÎ¿øÀ» ±â·ÏÇÏ¿´½À´Ï´Ù.";
+"X Etkinlikteki di?r kat??c?ar listelendi. ";
+
+"X ÀÔ´Ï´Ù";
+"Hay?(X) ";
+
+"°¡¸¸È÷ ÀÖÀ» ¶§¸¸ Âø¿ëÇÒ ¼ö ÀÖ½À´Ï´Ù.";
+"Eşya giyebilmek i?n hareketsiz olman gerekli. ";
+
+"°¢Á¦±¹ ÁøÇà Á¤º¸";
+"?paratorluk Bilgileri ";
+
+"°ªÀ» Àß¸ø ÀÔ·ÂÇÏ¿´½À´Ï´Ù.";
+"Yanlış de?r girdin. ";
+
+"°°Àº °³·®¼­¸¦ ÇÕÄ¥ ¼ö´Â ¾ø½À´Ï´Ù.";
+"Benzer roleleri birleştiremezsiniz. ";
+
+"°°Àº Á¾·ùÀÇ ¸ŞÆ¾¼®Àº ¿©·¯°³ ºÎÂøÇÒ ¼ö ¾ø½À´Ï´Ù.";
+"Ayn?tipte ?k say?a taş ekleyemezsin. ";
+
+"°°Àº Á¾·ùÀÇ À¯´ÏÅ© ¾ÆÀÌÅÛ µÎ °³¸¦ µ¿½Ã¿¡ ÀåÂøÇÒ ¼ö ¾ø½À´Ï´Ù.";
+"2.kez bu eşyay?giyemezsin. ";
+
+"°°ÀÌ ÁöÀ» ¼ö ¾ø´Â Á¾·ùÀÇ °Ç¹°ÀÌ Áö¾îÁ® ÀÖ½À´Ï´Ù.";
+"Bu tip binalar sadece bir kez inşa edilebilir. ";
+
+"°³·®µÈ ÈÄ ¾ÆÀÌÅÛÀÇ ·¹º§ Á¦ÇÑº¸´Ù ·¹º§ÀÌ ³·½À´Ï´Ù.";
+"Seviyeniz eşyan? y?seltmeden sonraki seviyesinden düş?. ";
+
+"°³·®À» ÇÏ±â À§ÇÑ µ·ÀÌ ºÎÁ·ÇÕ´Ï´Ù.";
+"Y?seltme i?n yeterli Yang yok. ";
+
+"°³·®À» ÇÏ±â À§ÇÑ Àç·á°¡ ºÎÁ·ÇÕ´Ï´Ù.";
+"Y?seltme i?n yeterli malzeme yok. ";
+
+"°³ÀÎ»óÁ¡ »ç¿ëÈÄ %dÃÊ ÀÌ³»¿¡´Â ±ÍÈ¯ºÎ,±ÍÈ¯±â¾ïºÎ¸¦ »ç¿ëÇÒ ¼ö ¾ø½À´Ï´Ù.";
+"Depo a??tan sonra %d saniye bir yere gidemezsin. ";
+
+"°Å·¡ ÈÄ %dÃÊ ÀÌ³»¿¡ Ã¢°í¸¦ ¿­¼ö ¾ø½À´Ï´Ù.";
+"Ticaret yapt?tan %d saniye sonra Depo a?bilirsin. ";
+
+"°Å·¡ ÈÄ %dÃÊ ÀÌ³»¿¡´Â ±ÍÈ¯ºÎ,±ÍÈ¯±â¾ïºÎµîÀ» »ç¿ëÇÒ ¼ö ¾ø½À´Ï´Ù.";
+"Ticaretten sonra %d saniye bir yere gidemezsin. ";
+
+"°Å·¡ ÈÄ %dÃÊ ÀÌ³»¿¡´Â ´Ù¸¥Áö¿ªÀ¸·Î ÀÌµ¿ ÇÒ ¼ö ¾ø½À´Ï´Ù.";
+"Ticaretten sonra %d saniye bir yere gidemezsin. ";
+
+"°Å·¡Ã¢,Ã¢°í µîÀ» ¿¬ »óÅÂ¿¡¼­´Â ±ÍÈ¯ºÎ,±ÍÈ¯±â¾ïºÎ ¸¦ »ç¿ëÇÒ¼ö ¾ø½À´Ï´Ù.";
+"Başka pencere açık oldu? s?ece Parş?en kullanamazs?. ";
+
+"°Å·¡Ã¢,Ã¢°í µîÀ» ¿¬ »óÅÂ¿¡¼­´Â ´Ù¸¥°÷À¸·Î ÀÌµ¿,Á¾·á ÇÒ¼ö ¾ø½À´Ï´Ù";
+"Ticaretten sonra bir s?e bir yere gidemezsin. ";
+
+"°Å·¡Ã¢,Ã¢°í µîÀ» ¿¬ »óÅÂ¿¡¼­´Â º¸µû¸®,ºñ´Üº¸µû¸®¸¦ »ç¿ëÇÒ¼ö ¾ø½À´Ï´Ù.";
+"Başka bir pencere açıkken depo a?mazs?. ";
+
+"°ÅÁş";
+"YANLI?";
+
+"°Ç¹° ºñ¿ë Á¤º¸ ÀÌ»óÀ¸·Î °Ç¼³ ÀÛ¾÷¿¡ ½ÇÆĞÇß½À´Ï´Ù.";
+"Yanlış fiyat nedeniyle bina inşa edilemedi. ";
+
+"°Ç¹°À» ÁöÀ» ¼ö ¾ø´Â À§Ä¡ÀÔ´Ï´Ù.";
+"Bu alana bir bina inşa edemezsin. ";
+
+"°Ç¼³ ºñ¿ëÀÌ ºÎÁ·ÇÕ´Ï´Ù.";
+"Bu binayi inşa edebilmek i?n yeterli Yang'? yok. ";
+
+"°Ç¼³¿¡ ÇÊ¿äÇÑ °Ç¹°ÀÌ Áö¾îÁ® ÀÖÁö ¾Ê½À´Ï´Ù.";
+"?k olarak temel binalar?inşa etmelisin. ";
+
+"°ÔÀÓÀ» Á¾·á ÇÕ´Ï´Ù. Àá½Ã¸¸ ±â´Ù¸®¼¼¿ä.";
+"Serverla olan ba?ant?? kesiliyor. L?fen bekleyin. ";
+
+"°áÀç±â°£ÀÌ %dºĞ ÈÄ ¸¸·á µË´Ï´Ù.";
+"Oyun s?eniz %d dakika i?nde doluyor. ";
+
+"°áÈ¥ »óÅÂ°¡ ¾Æ´Ï¸é °áÈ¥¹İÁö¸¦ »ç¿ëÇÒ ¼ö ¾ø½À´Ï´Ù.";
+"Evli de?lsen nikah y?üğ?takamazs?. ";
+
+"°áÈ¥½ÄÀÌ Á¾·áµË´Ï´Ù.";
+"Düğ? k?a s?e sonra bitecek. ";
+
+"°áÈ¥ÇÏÁö ¾ÊÀº »óÅÂ¿¡¼­ ¿¹¹°À» Âø¿ëÇÒ ¼ö ¾ø½À´Ï´Ù.";
+"E?r evli de?lsen bu eşyay?kullanamazs?. ";
+
+"°æÇèÄ¡ %d%%";
+"Tecr?e %d%% ";
+
+"°æÇèÄ¡ %d%% Ãß°¡ È¹µæ ÀÌº¥Æ® ÁßÀÔ´Ï´Ù.";
+"Etkinlik ?el Duyurusu: Tecr?e puan?kazan??%d%% oran?da art??d? ";
+
+"°æÇèÄ¡°¡ ºÎÁ·ÇÏ¿© Ã¥À» ÀĞÀ» ¼ö ¾ø½À´Ï´Ù.";
+"Bu kadar tecr?esizken bunu okuyamazs?. ";
+
+"°í±â°¡ ¹Ì³¢¸¸ »©¸Ô°í Àì½Î°Ô µµ¸ÁÄ¨´Ï´Ù.";
+"Bal? yemini kaybettin. ";
+
+"°í±â°¡ ÀâÇû½À´Ï´Ù! (%s)";
+"Bir bal? yakalad?! (%s) ";
+
+"°í±â°¡ ÈçÀûµµ ¾øÀÌ »ç¶óÁı´Ï´Ù.";
+"Bal? derin suda kayboldu. ";
+
+"°î±ªÀÌ ¼ö·Ãµµ°¡ ÃÖ´ë(%d)°¡ µÇ¾ú½À´Ï´Ù.";
+"Madencilik puan?? s??a ulaşt? (%d). ";
+
+"°î±ªÀÌ°¡ ÃÖ´ë ¼ö·Ãµµ¿¡ µµ´ŞÇÏ¿´½À´Ï´Ù.";
+"Madencilik Puanlar?? en ?t Seviyeye ulaşt? ";
+
+"°î±ªÀÌ¸¦ µé°í ÀÖÁö ¾Ê¾Æ¼­ Ä¶ ¼ö ¾ø½À´Ï´Ù.";
+"Kazma olmadan madencilik yapamazs?. ";
+
+"°î±ªÀÌ¸¦ ÀåÂøÇÏ¼¼¿ä.";
+"L?fen bir kazma al. ";
+
+"°î±ªÀÌÀÇ ¼ö·Ãµµ°¡ Áõ°¡ÇÏ¿´½À´Ï´Ù! (%d/%d)";
+"Madencilik Puanlar? artt? (%d/%d) ";
+
+"°ñµå µå·Ó·ü %d%% Ãß°¡ ÀÌº¥Æ® ÁßÀÔ´Ï´Ù.";
+"Etkinlik ?el Duyurusu: Yang kazan??%d%% oran?da art??d? ";
+
+"°ø°İ·Â +%d";
+"Sald??g??+ %d ";
+
+"°ø°İ·Â +%d%%";
+"Sald??+ %d%% ";
+
+"°ø°İ¼Óµµ +%d";
+"Sald??H??+%d ";
+
+"°øºÎÇÏ±â ½È¾îÁö³×.";
+"Daha fazla bir şey öğrenmek istemiyorum. ";
+
+"°üÀü ¸ğµå·Î ±æµåÀü¿¡ Âü°¡ÇÏ¼Ì½À´Ï´Ù.";
+"Lonca savaş?a izleyici olarak kat?abilirsin. ";
+
+"°üÀü »óÅÂ¿¡¼­´Â ±³È¯À» ÇÒ ¼ö ¾ø½À´Ï´Ù.";
+"G?lem s?as?da ticaret yapamazs?. ";
+
+"°üÅë Ãß°¡ µ¥¹ÌÁö %d";
+"Ek olarak verilen zarar %d ";
+
+"±¹°í¿¡ µ·ÀÌ ºÎÁ·ÇÏ°Å³ª µ·À» °¡Á®¿Ã¼ö ¾ø´Â »óÈ²ÀÔ´Ï´Ù";
+"Yeterli Yang'a sahip de?lsin. ";
+
+"±¹°í¿¡ µ·ÀÌ ºÎÁ·ÇÕ´Ï´Ù. ÇöÀç : %lu ÇÊ¿ä±İ¾× : %lu";
+"Vergi eksikli?. Mevcut Sermaye : %lu Eksik Sermaye : %lu ";
+
+"±¹°í¿¡ ÀÚ±İÀÌ ¸ğÀÚ¶ø´Ï´Ù ±¹°í : %d ";
+"Yetersiz vergi geliri : %d ";
+
+"±ºÁÖ Á¤º¸";
+"?parator Bilgisi ";
+
+"±ºÁÖ°¡ ³»¸° Ãàº¹À¸·Î ¸ğµç ¿¡³ÊÁö°¡ °¡µæ Ã¤¿öÁı´Ï´Ù";
+"?paratorlar? Kutsamas?nedeniyle enerji yans??d? ";
+
+"±ºÁÖ¸¸ÀÌ »ç¿ë°¡´É ÇÑ ±â´ÉÀÔ´Ï´Ù";
+"Bunu sadece ?parator kullanabilir. ";
+
+"±ºÁÖ¸¸ÀÌ »ç¿ëÇÒ¼ö ÀÖ´Â ±â´ÉÀÔ´Ï´Ù";
+"Bunu sadece bir ?parator kullanabilir. ";
+
+"±ºÁÖÀÇ ±İ°­±Ç ¿µÇâÀ¸·Î ÀÌÁö¿ª %s À¯Àú´Â 3ºĞ°£ 10 %% ÀÇ ¹æ¾î·ÂÀÌ  Áõ°¡µË´Ï´Ù";
+"?parator Geum-Gang-Gwon sayesinde, oyuncu %s 3 dakika s?eyle %10 daha fazla z?h ald? ";
+
+"±ºÁÖÀÇ »çÀÚÈÄ ¿µÇâÀ¸·Î ÀÌÁö¿ª %s À¯Àú´Â 3ºĞ°£ 10 %% ÀÇ °ø°İ·ÂÀÌ  Áõ°¡µË´Ï´Ù";
+"?parator Sa-Za-Hu sayesinde, oyuncu %s 3 dakika i?n %10 daha fazla sald??g??ald? ";
+
+"±ºÁÖÀÇ ÀÚ°İÀ» °¡Áö°í ÀÖÁö ¾Ê½À´Ï´Ù";
+"?parator olmak i?n gerekli ?elliklere sahip de?lsin. ";
+
+"±ºÁÖÀÇ Ãàº¹À¸·Î ÀÌÁö¿ª %s À¯Àú´Â HP,SP°¡ ¸ğµÎ Ã¤¿öÁı´Ï´Ù.";
+"?parator kutsamas?kullan?dığ?zaman %s HP ve SP yeniden y?lenir. ";
+
+"±ºÁÖÀÇ Ãàº¹À» »ç¿ëÇÏ¿´½À´Ï´Ù.";
+"?parator Kutsamas?aktif. ";
+
+"±ÍÈ¯¿¡ ½ÇÆĞÇÏ¿´½À´Ï´Ù.";
+"Iş?lama başar??. ";
+
+"±×°ÍÀ¸·Î ¼ö·ÃÀº ³¡³­ °Å¾ß!";
+"E?tim tamamland? ";
+
+"±×·¡, ÀÌ ´À³¦ÀÌ¾ß. Ã¼³»¿¡ ±â°¡ ¾ÆÁÖ Ãæ¸¸ÇØ.";
+"Evet, bu his m?emmel. Bedenim Chi ile dolu. ";
+
+"±×·¡, ÃµÃµÈ÷. Á»´õ ÃµÃµÈ÷, ±×·¯³ª ¸·Èû ¾øÀÌ ºü¸£°Ô!";
+"Yavaş?, fakat s?ekli... Ara vermeksizin. ";
+
+"±×·£µå ¸¶½ºÅÍ ¼ö·ÃÀ» ÇÒ ¼ö ¾ø´Â ½ºÅ³ÀÔ´Ï´Ù.";
+"Bu beceriyi Grand Master seviyesine geliştiremezsiniz. ";
+
+"±×·± ¸í·É¾î´Â ¾ø½À´Ï´Ù";
+"Bu d?enleme mevcut de?l. ";
+
+"±×·± »ç¶÷ÀÌ ¾ø½À´Ï´Ù.";
+"Kişi bulunamad? ";
+
+"±×·± ÀÌ¸§ ¶Ç´Â ¹øÈ£ÀÇ ±æµå°¡ ¾ø½À´Ï´Ù.";
+"Belirtilen isim veya numarada lonca mevcut de?l. ";
+
+"±Ù·Â +%d";
+"Güç +%d ";
+
+"±Ù·ÂÀÌ ³·¾Æ Âø¿ëÇÒ ¼ö ¾ø½À´Ï´Ù.";
+"Bunu giyebilmek i?n yeterli g?e sahip de?lsin. ";
+
+"±İ¾×ÀÌ ºÎÁ·ÇÕ´Ï´Ù.";
+"Ge?rsiz Yang. ";
+
+"±â¾ïµÈ À§Ä¡°¡ Å¸Á¦±¹¿¡ ¼ÓÇØ ÀÖ¾î¼­ ±ÍÈ¯ÇÒ ¼ö ¾ø½À´Ï´Ù.";
+"Yabanc?Krall?ta g?enli bir yere ış?lanamazs?. ";
+
+"±â¾ïÇØ µÑ ¼ö ¾ø´Â À§Ä¡ ÀÔ´Ï´Ù.";
+"Bu pozisyonu kaydedemezsin. ";
+
+"±âÀıÇÏÁö ¾ÊÀ½ %d%%";
+"Baş d?mesi yok %d%% ";
+
+"±æµå¿¡ °¡ÀÔÇÏÁö ¾Ê¾Ò½À´Ï´Ù.";
+"Loncaya kat?amad?. ";
+
+"±æµå¿ø";
+"?e ";
+
+"±æµåÀå";
+"Lider ";
+
+"±æµåÀü¿¡ Âü°¡ÇÑ »ó´ë¹æ ±æµå¿øÀÌ ¾Æ¹«µµ ¾ø½À´Ï´Ù.";
+"Burada düşman yok. ";
+
+"±æµåÀüÀÌ ÀÏÂï Á¾·áµÇ¾î ¹«½ÂºÎ·Î ÆÇÁ¤ µÇ¾ú½À´Ï´Ù. (5ºĞÀÌ Áö³ªÁö ¾ÊÀ½)";
+"Lonca Savaş?zaman?dan ?ce biterse berabere sonu?anmış say??. ";
+
+"²Ş¼Ó¿¡¼­ ¾î¶»°Ô¿ä?";
+"R?amda? Ne? ";
+
+"³ª¹«²Û¸¦ ÅëÇØ ´ÙÀ½ ·¹º§ÀÇ °î±ªÀÌ·Î ¾÷±×·¹ÀÌµå ÇÒ ¼ö ÀÖ½À´Ï´Ù.";
+"Oduncunun yard??la Kazman? seviyesini y?seltebilirsin. ";
+
+"³ª¹«¿¡¼­ ºÎÅÍ ½ÅºñÇÑ ºûÀÌ ³ª¿É´Ï´Ù.";
+"A??an gizemli bir ış? yay??or. ";
+
+"³ªº¸´Ù ³Ê¹« ³ôÀº ·¹º§ÀÇ ¸ó½ºÅÍ·Î´Â º¯½Å ÇÒ ¼ö ¾ø½À´Ï´Ù.";
+"Kendinden daha y?sek seviyedeki bir yaratığa d?üşemezsin. ";
+
+"³ªÀÇ ±ºÁÖ Á¤º¸";
+"Benim ?paratorluk Bilgim ";
+
+"³ªÀÇ »ï°Å¸® ÁøÇàÁ¤º¸";
+"?paratorluk savaş?hakk?da bilgi ";
+
+"³¬½Ã Áß¿¡ ¹Ì³¢¸¦ °¥¾Æ³¢¿ï ¼ö ¾ø½À´Ï´Ù.";
+"Bal? tutarken yemi de?ştiremezsin. ";
+
+"³¬½Ã´ë°¡ ¾Æ´Ñ ¹°°ÇÀ¸·Î ³¬½Ã¸¦ ÇÒ ¼ö ¾ø½À´Ï´Ù!";
+"Oltas? balığa gidemezsin. ";
+
+"³¬½Ã´ë°¡ ÃÖ´ë ¼ö·Ãµµ¿¡ µµ´ŞÇÏ¿´½À´Ï´Ù.";
+"Oltan?daha fazla geliştiremezsin. ";
+
+"³¬½Ã´ë¸¦ ÀåÂø ÇÏ¼¼¿ä.";
+"L?fen bir olta se? ";
+
+"³¬½Ã´ë¿¡ %s¸¦ ¹Ì³¢·Î ³¢¿ó´Ï´Ù.";
+"%s Yemini ?ngele tak. ";
+
+"³¬½Ã´ëÀÇ ¼ö·Ãµµ°¡ Áõ°¡ÇÏ¿´½À´Ï´Ù! (%d/%d)";
+"Bal?çıl? puan?? artt? (%d/%d) ";
+
+"³¬½ÃÀÌº¥Æ®¿ùÃ´ºØ¾î";
+"Bal?çıl? olay?'B?? Sudak Balığ? ";
+
+"³¬½ÃÀÌº¥Æ®À×¾î";
+"Bal?çıl? olay?'Sazan Balığ?";
+
+"³²Àº »ı¸í·Â ¾çÀÌ ¸ğÀÚ¶ó »ç¿ëÇÒ ¼ö ¾ø½À´Ï´Ù.";
+"Yeterli HP yok. ";
+
+"³²Àº ½ºÅÈ Æ÷ÀÎÆ®°¡ ¾ø½À´Ï´Ù.";
+"Stat?Puan?kalmad? ";
+
+"³²Àº ½ºÅÈ Æ÷ÀÎÆ®°¡ Àû½À´Ï´Ù.";
+"Kalan Stat?puanlar??k düş?. ";
+
+"³²Àº Á¤½Å·Â ¾çÀÌ ¸ğÀÚ¶ó »ç¿ëÇÒ ¼ö ¾ø½À´Ï´Ù.";
+"Bunu kullanmak i?n yeterli manaya sahip de?lsin. ";
+
+"³Ê¹« °¡±îÀÌ ÀÖ½À´Ï´Ù.";
+"?k yak?s?. ";
+
+"³Ê¹« ¸Ö¸® ÀÖ½À´Ï´Ù";
+"?k uzaks?. ";
+
+"³Ñ¾îÁöÁö ¾ÊÀ½ %d%%";
+"Düşüş yok. %d%% ";
+
+"³à¼®µéÀº ÀÌ°÷ ¼ºÁö¿¡ ÀÖÀ» ÀÚ°İÀ» ÀÒ¾ú´Ù. ¸ğµÎ ¼ºÁö¿¡¼­ ¹°·¯³ª°Å¶ó~~[ENTER][ENTER] 10ÃÊ ÈÄ¿¡ ¸ğµÎ ¸¶À»·Î ÀÌµ¿ÇÏ°Ô µË´Ï´Ù. ";
+"Burada olmaya hakk? yok. Buras?kutsal alan: Uzaklaş! [ENTER][ENTER] 10 Saniye i?nde k??e d?müş olacaks?. ";
+
+"´À·ÁÁöÁö ¾ÊÀ½ %d%%";
+"Yavaşlama yok %d%% ";
+
+"´ÔÀÇ ¸»";
+"At ";
+
+"´Ù ÀĞ¾ú´Ù! ÀÌÁ¦ ºñ±Ş¿¡ ÀûÇôÀÖ´Â ´ë·Î Àü½Å¿¡ ±â¸¦ µ¹¸®±â¸¸ ÇÏ¸é,";
+"Okudum! ?mdi Chi t? v?udumu kapl?or. ";
+
+"´Ù¸¥ °Å·¡Áß(Ã¢°í,±³È¯,»óÁ¡)¿¡´Â °³ÀÎ»óÁ¡À» »ç¿ëÇÒ ¼ö ¾ø½À´Ï´Ù.";
+"? anda ?el depoyu kullanamazs?. ";
+
+"´Ù¸¥ °Å·¡ÁßÀÏ°æ¿ì °³ÀÎ»óÁ¡À» ¿­¼ö°¡ ¾ø½À´Ï´Ù.";
+"Başkas?la ticaret yaparken ?el depo a?mazs?. ";
+
+"´Ù¸¥ °Å·¡Ã¢ÀÌ ¿­·ÁÀÖÀ»°æ¿ì °Å·¡¸¦ ÇÒ¼ö ¾ø½À´Ï´Ù.";
+"E?r ticaret penceresi açık ise, başkalar?ile ticaret yapamazs?. ";
+
+"´Ù¸¥ °Å·¡Ã¢ÀÌ ¿­¸°»óÅÂ¿¡¼­´Â »óÁ¡°Å·¡¸¦ ÇÒ¼ö °¡ ¾ø½À´Ï´Ù.";
+"Başka bir ticaret penceresi açık iken depoda ticaret yapamazs?. ";
+
+"´Ù¸¥ ÄÄÇ»ÅÍ¿¡¼­ ·Î±×ÀÎ ÇÏ¿© Á¢¼ÓÀ» Á¾·á ÇÕ´Ï´Ù.";
+"Biri hesab??a giriş yapt? Ba?ant?? kesilecek. ";
+
+"´Ù¸¥°Å·¡Ã¢ÀÌ ¿­¸°»óÅÂ¿¡¼­´Â Ã¢°í¸¦ ¿­¼ö°¡ ¾ø½À´Ï´Ù.";
+"Başka ticaret penceresi açıkken Depo a?mazs?. ";
+
+"´ÙÀ½ ¹®Á¦ ÁØºñÇØÁÖ¼¼¿ä.";
+"Sonraki soru i?n haz? m??? ";
+
+"´ÙÀÌ¾Æ¸óµå·Î ¼ÒÄÏÀ» Ãß°¡ÇØ¾ßÇÕ´Ï´Ù.";
+"E?r elmas kullanmak istersen, bir soket eklemek zorundas?. ";
+
+"´İ±â";
+"Kapat ";
+
+"´ë·Ã °­Á¦ Á¾·á ¼º°ø";
+"D?llo iptali başar?? ";
+
+"´ë·Ã °­Á¦ Á¾·á ½ÇÆĞ";
+"D?llo iptal edilmedi. ";
+
+"´ë·Ã »ó´ë°¡ »ç¶óÁ® ´ë·ÃÀ» Á¾·áÇÕ´Ï´Ù.";
+"D?llo bitti çünk?savaşçın? g?den kayboldu. ";
+
+"´ë·Ã ½Ã°£ ÃÊ°ú·Î ´ë·ÃÀ» Áß´ÜÇÕ´Ï´Ù.";
+"S?e bitti? i?n d?llo sona erdi. ";
+
+"´ë·Ã ½ÃÀÛ¿¡ ¹®Á¦°¡ ÀÖ½À´Ï´Ù.";
+"D?llonun başlamas?la ilgili bir problem var. ";
+
+"´ë·Ã Áß¿¡´Â ÀÌ¿ëÇÒ ¼ö ¾ø´Â ¹°Ç°ÀÔ´Ï´Ù.";
+"Bu eşyay?d?lloda kullanamazs?. ";
+
+"´ë·ÃÀÌ ¼º°øÀûÀ¸·Î ½ÃÀÛ µÇ¾ú½À´Ï´Ù.";
+"D?llo başar?la başlad? ";
+
+"´ë·ÃÀÌ ½ÃÀÛµÇ¾ú½À´Ï´Ù.";
+"D?llo başlad? ";
+
+"´ë·ÃÀÚ ¹®Á¦·Î ÀÎÇÏ¿© ´ë·ÃÀ» Á¾·áÇÕ´Ï´Ù.";
+"Savaşçın?la ilgili bir problem oldu? i?n d?llo sona erdi. ";
+
+"´ë·ÃÀÚ ¹®Á¦·Î ÀÎÇÏ¿© ´ë·ÃÀ» Áß´ÜÇÕ´Ï´Ù.";
+"Arena ile ilgili bir problem oldu? i?n d?llo sona erdi. ";
+
+"´ë·ÃÀÚ°¡ ¾ø½À´Ï´Ù.";
+"Burada savaşçı yok. ";
+
+"´ë·ÃÀå ¹®Á¦·Î ÀÎÇÏ¿© ´ë·ÃÀ» Á¾·áÇÕ´Ï´Ù.";
+"Arenadaki bir problemlemden dolay?d?llo bitti. ";
+
+"´ë·ÃÀå¿¡¼­ »ç¿ëÇÏ½Ç ¼ö ¾ø½À´Ï´Ù.";
+"Bunu arenada kullanamazs?. ";
+
+"´ë¹Ú°ñµå µå·Ó·ü %d%% Ãß°¡ ÀÌº¥Æ® ÁßÀÔ´Ï´Ù.";
+"Etkinlik ?el Duyurusu: Yang kazan??%d%% oran?da art??d? ";
+
+"´õ ³ôÀº °æÁöÀÇ ¼ö·ÃÀ» ¼º°øÀûÀ¸·Î ³¡³»¼Ì½À´Ï´Ù.";
+"Kitapla olan e?timini başar?la tamamlad?. ";
+
+"´õ ÀÌ»ó OXÀÌº¥Æ® Âü°¡ÀÚ¸¦ ¹ŞÁö ¾Ê½À´Ï´Ù.";
+"OX Etkinli?ne daha fazla oyuncu kat?amaz. ";
+
+"´õ ÀÌ»ó °³·®ÇÒ ¼ö ¾ø½À´Ï´Ù.";
+"Y?seltme imkans?. ";
+
+"´õ ÀÌ»ó ¼ö·ÃÇÒ ¼ö ¾ø½À´Ï´Ù.";
+"Becerilerini daha fazla y?seltemezsin. ";
+
+"´õ ÀÌ»ó ½Â¸¶ ¼ö·Ã¼­¸¦ ÀĞÀ» ¼ö ¾ø½À´Ï´Ù.";
+"Daha fazla Binicilik Rehberi okuyamazs?. ";
+
+"´õ ÀÌ»ó ÀÌ ¾ÆÀÌÅÛÀ» ÀÌ¿ëÇÏ¿© ¼Ó¼ºÀ» Ãß°¡ÇÒ ¼ö ¾ø½À´Ï´Ù.";
+"Bu eşyay?di?r y?seltmeler i?n kullanamazs?. ";
+
+"´õÀÌ»ó ÀÌ ¾ÆÀÌÅÛÀ» ÀÌ¿ëÇÏ¿© ¼Ó¼ºÀ» Ãß°¡ÇÒ ¼ö ¾ø½À´Ï´Ù.";
+"Bu eşyaya daha fazla y?seltme ekleyemezsin. ";
+
+"´õÀÌ»ó Ä³³¾ ¼ö ¾ø½À´Ï´Ù.";
+"Burada maden yok. ";
+
+"´øÀü ¾È¿¡¼­´Â %s%s »ç¿ëÇÒ ¼ö ¾ø½À´Ï´Ù.";
+"%s%s zindanda kullan?amaz. ";
+
+"µ¶ ÀúÇ× %d%%";
+"Zehir Direnci %d%% ";
+
+"µ¶°ø°İ %d";
+"Zehirli Sald??%d ";
+
+"µ· %d ³ÉÀ» È¹µæÇß½À´Ï´Ù.";
+"%d Yang Kazand?. ";
+
+"µ· µå·ÓÀ² %.1f¹è";
+"Yang bulma şans?%. 1f ";
+
+"µ·ÀÌ ºÎÁ·ÇÏ°Å³ª ¾ÆÀÌÅÛÀÌ Á¦ÀÚ¸®¿¡ ¾ø½À´Ï´Ù.";
+"Yeterli Yang veya depoda boş yer yok. ";
+
+"µ¿¹°·ù ¸ó½ºÅÍ Å¸°İÄ¡ +%d%%";
+"Yarat?lara karş?At? sald??g??+%d%% ";
+
+"µ¿ÀÏÇÑ ¸Ó¸® ½ºÅ¸ÀÏ·Î´Â ±³Ã¼ÇÒ ¼ö ¾ø½À´Ï´Ù.";
+"Zaten bu sa?şekline sahipsin. ";
+
+"µÎ¼Õ°Ë ¹æ¾î %d%%";
+"?ft-El K?ıç Savunmas?%d%% ";
+
+"µĞ°© Áß¿¡´Â ´É·ÂÀ» ¿Ã¸± ¼ö ¾ø½À´Ï´Ù.";
+"D?üşmüş durumda oldu?nuz s?ece stat???de?ştiremezsiniz. ";
+
+"µĞ°© Áß¿¡´Â Âø¿ëÁßÀÎ Àåºñ¸¦ º¯°æÇÒ ¼ö ¾ø½À´Ï´Ù.";
+"D?üş? esnas?da giyilen eşyalar?de?ştiremezsin. ";
+
+"µĞ°©¼­ ¼ö·ÃÀ» ¸¶Ãº½À´Ï´Ù. ½Å¼±¿¡°Ô Ã£¾Æ°¡¼¼¿ä.";
+"D?üş??tamamen öğrendin. ";
+
+"µĞ°©¿¡ ½ÇÆĞ ÇÏ¿´½À´Ï´Ù";
+"D?üş? s?as?da hata oluştu. ";
+
+"µåµğ¾î ³¡ÀÌ º¸ÀÌ´Â °Ç°¡...  ÀÌ ±â¼úÀº ÀÌÇØÇÏ±â°¡ ³Ê¹« Èûµé¾î..";
+"Tebrikler başar??";
+
+"¶³¾îÁø ¾ÆÀÌÅÛÀº 3ºĞ ÈÄ »ç¶óÁı´Ï´Ù.";
+"Düş??en eşyalar 1 dakika i?risinde yok olacak. ";
+
+"¶ß°Å¿î ¹«¾ùÀÌ °è¼Ó ¿ë¼ÚÀ½Ä¡°í ÀÖ¾î! ÀÌ°Ç, ÀÌ°ÍÀº!";
+"Burdan birşeyler geliyor... ";
+
+"·¹º§ 20 ÀÌÇÏ´Â ÇÚµåÆù ¹øÈ£¸¦ µî·ÏÇÒ ¼ö ¾ø½À´Ï´Ù.";
+"Cep telefonu numaras?kaydedebilmek i?n 20.Seviyeden y?sek olmal??. ";
+
+"·¹º§ 30ÀÌ µÇ±â Àü¿¡´Â ½ÀµæÇÒ ¼ö ÀÖÀ» °Í °°Áö ¾Ê½À´Ï´Ù.";
+"Bunu anlaman i?n 30.Seviyede olman gerekli. ";
+
+"·¹º§ 50ÀÌ µÇ±â Àü¿¡´Â ½ÀµæÇÒ ¼ö ÀÖÀ» °Í °°Áö ¾Ê½À´Ï´Ù.";
+"Bunu anlaman i?n 50.Seviyede olman gerekli. ";
+
+"·¹º§ÀÌ ³·¾Æ Âø¿ëÇÒ ¼ö ¾ø½À´Ï´Ù.";
+"Bunu giyebilmek i?n Seviyen ?k düş?. ";
+
+"·Î±×ÀÎ È­¸éÀ¸·Î µ¹¾Æ °©´Ï´Ù. Àá½Ã¸¸ ±â´Ù¸®¼¼¿ä.";
+"Giriş ekran?a d?. L?fen bekleyin. ";
+
+"·í·¿À» µ¹¸³´Ï´Ù. ±İ¾× %d";
+"%d Yang i?n rulet ?vir. ";
+
+"¸¦";
+" ";
+
+"¸¶¹ı °ø°İ·Â +%d";
+"B???Sald??+ %d ";
+
+"¸¶¹ı ¹æ¾î·Â +%d";
+"B???Savunma + %d ";
+
+"¸¶¹ı ÀúÇ× %d%%";
+"B??Direnci %d%% ";
+
+"¸¶À½ÀÌ ¸¼¾ÆÁö´Â±º. °¡½¿À» Áş´©¸£´ø ¹«¾ğ°¡°¡ Á» °¡º­¿öÁø ´À³¦ÀÌ¾ß.";
+"Zihnin açık. ?mdi iyi konsantre olabilirsin. ";
+
+"¸¹Àº Âü¿© ºÎÅ¹µå¸³´Ï´Ù.";
+"Kat?? i?n bir?k oyuncu ar?oruz. ";
+
+"¸» ¼ÒÈ¯ ¾ÆÀÌÅÛÀ» »ç¿ëÇÏ¼¼¿ä.";
+"L?fen at ?ğırma nesnesini kullan. ";
+
+"¸» ¼ÒÈ¯¿¡ ½ÇÆĞÇÏ¿´½À´Ï´Ù.";
+"At ?ğırma işlemi başar??. ";
+
+"¸»¿¡°Ô %s%s ÁÖ¾ú½À´Ï´Ù.";
+"Ata %s%s verdin. ";
+
+"¸»¿¡°Ô »ç·á¸¦ ÁÖ¾ú½À´Ï´Ù.";
+"At?besledin. ";
+
+"¸»¿¡°Ô ¼±ÃÊ¸¦ ÁÖ¾ú½À´Ï´Ù.";
+"At?otlarla beslediniz. ";
+
+"¸»¿¡¼­ ¸ÕÀú ³»·Á¾ß ÇÕ´Ï´Ù.";
+"At?dan inmelisin. ";
+
+"¸»À» µ¹·Áº¸³Â½À´Ï´Ù.";
+"At??geri g?der ";
+
+"¸»À» ¸ÕÀú ¼ÒÈ¯ÇØÁÖ¼¼¿ä.";
+"L?fen ?ce at???ğır. ";
+
+"¸»À» ¼ÒÀ¯ÇÏ°í ÀÖÁö ¾Ê½À´Ï´Ù.";
+"At? yok. ";
+
+"¸»À» Åº »óÅÂ¿¡¼­´Â ¸ÔÀÌ¸¦ ÁÙ ¼ö ¾ø½À´Ï´Ù.";
+"At?? ?erinde otururken onu besleyemezsin. ";
+
+"¸»ÀÇ ½ºÅ×¹Ì³Ê°¡ ºÎÁ·ÇÏ¿© ¸»À» Å» ¼ö ¾ø½À´Ï´Ù.";
+"At?? dayan?l?ığ??k az. ";
+
+"¸»ÀÌ ¾ø½À´Ï´Ù. ¸¶±Â°£ °æºñº´À» Ã£¾Æ°¡¼¼¿ä.";
+"Burada at yok. Seyise sor. ";
+
+"¸»ÀÌ Á×¾îÀÖ´Â »óÅÂ ÀÔ´Ï´Ù.";
+"At? ?d? ";
+
+"¸ÂÀ¸¸é O, Æ²¸®¸é X·Î ÀÌµ¿ÇØÁÖ¼¼¿ä";
+"Do?uysa O'ya git, yanlışsa X'e git. ";
+
+"¸Ó´Ï  ·ê·¿ ½ÃÀÛ.";
+"Yang Ruleti Başlat. ";
+
+"¸ÕÀú ´ÙÀÌ¾Æ¸óµå·Î ¾Ç¼¼¼­¸®¿¡ ¼ÒÄÏÀ» Ãß°¡ÇØ¾ßÇÕ´Ï´Ù.";
+"Soket ekleyebilmek i?n ?ce elmas kullanmal??. ";
+
+"¸ÕÀú ÀÏ¾î ³ª¼¼¿ä.";
+"?ce kalk. ";
+
+"¸ÕÀú Àç°¡ºñ¼­¸¦ ÀÌ¿ëÇÏ¿© ¼Ó¼ºÀ» Ãß°¡½ÃÄÑ ÁÖ¼¼¿ä.";
+"Bir başka y?seltme yapabilmek i?n, l?fen Gelişme Parş?enini kullan??. ";
+
+"¸ŞÆ¾2ÀÎÁõ¹øÈ£: %s";
+"Metin2 Onay Numaras? %s ";
+
+"¸ŞÆ¾¼® ºÎÂø¿¡ ¼º°øÇÏ¿´½À´Ï´Ù.";
+"Taş?başar?la ekledin. ";
+
+"¸ŞÆ¾¼® ºÎÂø¿¡ ½ÇÆĞÇÏ¿´½À´Ï´Ù.";
+"Taş?ekleyemedin. ";
+
+"¸í·É¾î¸¦ ¸ğµÎ ÀÔ·ÂÇÏ¼¼¿ä.";
+"L?fen d?enlemenin tam ismini giriniz. ";
+
+"¸í·É¾îÀÇ ¼­ºê Ä¿¸Çµå°¡ Àß¸ø µÇ¾ú½À´Ï´Ù.";
+"S?alama veya alt s?alama yanlış. ";
+
+"¸ğ´ÚºÒÀ» ÇÇ¿ï ¼ö ¾ø´Â ÁöÁ¡ÀÔ´Ï´Ù.";
+"Buraya kamp ateşi yakamazs?. ";
+
+"¸ó½ºÅÍ¿¡°Ô °­ÇÔ +%d%%";
+"Canavarlara karş?güç + %d%% ";
+
+"¸ö ¼ÓÀÌ ¶ß°Ì±º. ÇÏÁö¸¸ ¾ÆÁÖ Æí¾ÈÇØ. ÀÌ´ë·Î ±â¸¦ ¾ÈÁ¤½ÃÅ°ÀÚ.";
+"İçim yan?or fakat v??umu sakinleştiriyor. ";
+
+"¸ö¿¡¼­ ¹º°¡ ÈûÀÌ ÅÍÁ® ³ª¿À´Â ±âºĞÀÌ¾ß!";
+"Bedenim güçle dolu! ";
+
+"¹«´ç°ø°İ¿¡ %d%% ÀúÇ×";
+"?man ataklar?da %d%% Diren?";
+
+"¹«´ç¿¡°Ô °­ÇÔ +%d%%";
+"?manlara karş?güç + %d%% ";
+
+"¹«»ç°ø°İ¿¡ %d%% ÀúÇ×";
+"Savaşçı ataklar?da %d%% Diren?";
+
+"¹«»ç¿¡°Ô °­ÇÔ +%d%%";
+"Savaşçılara karş?güç + %d%% ";
+
+"¹®ÀÚ ¸Ş¼¼Áö Àü¼Û¿¡´Â 2000¿øÀÌ ÇÊ¿ä ÇÕ´Ï´Ù.";
+"Yaz??mesaj yollamak i?n 2000 Yang gerekli. ";
+
+"¹®ÀÚ ¸Ş¼¼Áö Àü¼ÛÀº ·¹º§ 20ºÎÅÍ ÇÒ ¼ö ÀÖ½À´Ï´Ù.";
+"Yaz??mesaj yollayabilmek i?n en az 20.Seviye olman gerekli. ";
+
+"¹®ÀÚ ¸Ş¼¼Áö¸¦ Àü¼Û Çß½À´Ï´Ù.";
+"Yaz??mesaj?? yolland? ";
+
+"¹®Á¦ ÀÔ´Ï´Ù.";
+"Soru. ";
+
+"¹®Á¦¸¦ ÃâÁ¦ÇÏ¿´½À´Ï´Ù.";
+"Bir hata oluştu. ";
+
+"¹®Á¦¸¦ ÃâÁ¦ÇÏÁö ¸øÇß½À´Ï´Ù.";
+"Hata oluşmad? ";
+
+"¹° ¼Ó¿¡ ¸ğ´ÚºÒÀ» ÇÇ¿ï ¼ö ¾ø½À´Ï´Ù.";
+"Suyun alt?da kamp ateşi yakamazs?. ";
+
+"¹°¸®Å¸°İ½Ã ºí·° È®·ü %d%%";
+"Yak? d?üş sald????engelleme şans?%d%%. ";
+
+"¹°¾à »ç¿ë½Ã %d%% ¼º´É Áõ°¡";
+"?sir kullandığ? zaman güç %d%% artacak. ";
+
+"¹°¾à Á¦Á¶¿¡ ½ÇÆĞÇß½À´Ï´Ù.";
+"?sir karışt?ma işlemi başar??. ";
+
+"¹°¾à Á¦ÇÑÀÌ ¾ø½À´Ï´Ù.";
+"Burada iksirler i?n herhangi bir s??lama yok. ";
+
+"¹°¾à Á¶ÇÕÀ» À§ÇÑ Àç·á°¡ ºÎÁ·ÇÕ´Ï´Ù.";
+"?sir haz?lamak i?n t? malzemelere sahip de?lsin. ";
+
+"¹°¾àÀ» %d °³ ±îÁö »ç¿ë °¡´ÉÇÕ´Ï´Ù.";
+"%d iksir kullanabilirsiniz. ";
+
+"¹º°¡ ¸ö ¾È¿¡ ÈûÀÌ »ı±â´Â ±âºĞÀÎ °É.";
+"Yenilenmiş hissediyorum. ";
+
+"¹Ì³¢¸¦ ³¢°í ´øÁ® ÁÖ¼¼¿ä.";
+"?ce yemi ?ngele ge?r. ";
+
+"¹ÎÃ¸ +%d";
+"?viklik +%d ";
+
+"¹ÎÃ¸ÀÌ ³·¾Æ Âø¿ëÇÒ ¼ö ¾ø½À´Ï´Ù.";
+"Bunu kullanabilmek i?n yeterli ?vikli? sahip de?lsin. ";
+
+"¹Ğ±³·ù Å¸°İÄ¡ +%d%%";
+"Milgyo karş??da sald??artış?+ %d%% ";
+
+"¹Ù¶÷ ÀúÇ× %d%%";
+"R?gar Direnci %d%% ";
+
+"¹æ¾î·Â +%d";
+"Savunma +%d ";
+
+"¹æ¾î·Â +%d%%";
+"Savunma + %d%% ";
+
+"¹æ¿ï ¹æ¾î %d%%";
+"?n Savunmas?%d%% ";
+
+"¹è ¼Ó¿¡¼­ Á¶°³°¡ ³ª¿Ô½À´Ï´Ù.";
+"Balığ? i?nde bir istiridye var. ";
+
+"¹è ¼Ó¿¡¼­ Áö··ÀÌ°¡ ³ª¿Ô½À´Ï´Ù.";
+"Balığ? i?nde bir solucan var. ";
+
+"¹ö¸± ¼ö ¾ø´Â ¾ÆÀÌÅÛÀÔ´Ï´Ù.";
+"Bu eşyay?düş?emezsin. ";
+
+"º¯°æÇÒ ¼Ó¼ºÀÌ ¾ø½À´Ï´Ù.";
+"De?ştirebilece?niz hi?ir y?seltme yok. ";
+
+"º¯½Å »óÅÂ¿¡¼­´Â ¸»¿¡ Å» ¼ö ¾ø½À´Ï´Ù.";
+"D?üşmüş durumdayken ata binemezsin. ";
+
+"ºÎÂøÇÒ ¼ö ÀÖ´Â ½½·ÔÀÌ ¾ø½À´Ï´Ù.";
+"Boş yer yok. ";
+
+"ºÎÃ¤ ¹æ¾î %d%%";
+"Yelpaze Savunmas?%d%% ";
+
+"ºÒ¹ı ÇÁ·Î±×·¥ÀÌ °¨Áö µÇ¾î °ÔÀÓÀÌ Á¾·á µË´Ï´Ù.";
+"Yasadış?yaz?? tespit edildi. Oyun kapat?acak. ";
+
+"ºñ¼Ó¾î³ª Àº¾î°¡ Æ÷ÇÔµÈ »óÁ¡ ÀÌ¸§À¸·Î »óÁ¡À» ¿­ ¼ö ¾ø½À´Ï´Ù.";
+"Depona hatal?bir isim veremezsin. ";
+
+"ºó º´ÀÌ ¸ğÀÚ¸¨´Ï´Ù.";
+"Yeterince boş şişen yok. ";
+
+"»©³¾ ¼ö ÀÖ´Â ¸ŞÆ¾¼®ÀÌ ¾ø½À´Ï´Ù.";
+"Çıkart?acak metin taş?yok. ";
+
+"»ç±Í Å¸¿ö ¿Ï·á º¸»óÀº ÇÑ¹ø±îÁö »ç¿ë°¡´ÉÇÕ´Ï´Ù.";
+"?ytan Kulesi g?evi i?n sadece bir kez ??lendirilebilirsiniz. ";
+
+"»ç¿ë Á¦ÇÑ·®À» ÃÊ°úÇÏ¿´½À´Ï´Ù.";
+"Bu limitin ?erinde. ";
+
+"»ç¿ë¹ı: warpto <Karakter adi>";
+"¨Ï¥Î¤è?: warpto <Karakter adi> ";
+
+"»ï°Å¸® ¸÷ ¸®Á¨";
+"Krall? savaş?daki yarat?lar? say?? ";
+
+"»ï°Å¸® ÀüÅõ Âü°¡Áß¿¡´Â ±ÍÈ¯ºÎ,±ÍÈ¯±â¾ïºÎ¸¦ »ç¿ëÇÒ¼ö ¾ø½À´Ï´Ù.";
+"Krall? Savaş?s?erken 'Geri D?üş' kağıd??kullanamazs?. ";
+
+"»ï°Å¸® ÀüÅõ¿¡¼­ %s ±¹°¡°¡ °¡Àå¸ÕÀú Å»¶ôÀ» ÇÏ¿´½À´Ï´Ù";
+"%s Krallığ?yenildi ve krall? savaş?sona erdi. ";
+
+"»ó´ë¹æ Ä³¸¯ÅÍ°¡ Á¢¼ÓÀ» Á¾·áÇÏ¿© ´ë·ÃÀ» ÁßÁöÇÕ´Ï´Ù.";
+"Savaşçılar ayr?d? D?llo sona erdi. ";
+
+"»ó´ë¹æ Ä³¸¯ÅÍÀÇ ¹®Á¦·Î ÀÎÇÏ¿© ´ë·ÃÀ» Á¾·áÇÕ´Ï´Ù.";
+"Savaşçın?la ilgili bir problem oldu? i?n d?llo sona erdi. ";
+
+"»ó´ë¹æÀÇ µ·ÀÌ ºÎÁ·ÇÏ°Å³ª ¾ÆÀÌÅÛÀÌ Á¦ÀÚ¸®¿¡ ¾ø½À´Ï´Ù.";
+"Di?r kişide yeterli Yang veya depoda boş yer yok. ";
+
+"»ó´ë¹æÀÇ ¼ÒÁöÇ°¿¡ ºó °ø°£ÀÌ ¾ø½À´Ï´Ù.";
+"Sto?nuzda yeterli boşluk yok. ";
+
+"»ó´ë¹æÀÇ ÃÑ±İ¾×ÀÌ 20¾ï ³ÉÀ» ÃÊ°úÇÏ¿© °Å·¡¸¦ ÇÒ¼ö°¡ ¾ø½À´Ï´Ù..";
+"Oyuncunun 2 milyardan fazla Yang'?var.Bu oyuncuyla ticaret yapamazs?. ";
+
+"»ó´ë¹æÀÌ %d Ã¤³Î¿¡ ÀÖ½À´Ï´Ù. (ÇöÀç Ã¤³Î %d)";
+"Oyuncu %d kanal?da.Sen %d kanal?das?. ";
+
+"»ó´ë¹æÀÌ ±³È¯ °ÅºÎ »óÅÂÀÔ´Ï´Ù.";
+"Di?r oyuncu ticareti iptal etti. ";
+
+"»ó´ë¹æÀÌ ´Ù¸¥ °Å·¡¸¦ ÇÏ°í ÀÖ´Â ÁßÀÔ´Ï´Ù.";
+"Bu oyuncu zaten başkas?la ticaret yap?or. ";
+
+"»ó´ë¹æÀÌ ´Ù¸¥ °Å·¡ÁßÀÌ¶ó °Å·¡¸¦ ÇÒ¼ö ¾ø½À´Ï´Ù.";
+"Di?r oyuncu zaten ticaret yap?or. ";
+
+"»ó´ë¹æÀÌ ´ë·ÃÁßÀÔ´Ï´Ù.";
+"Oyuncu zaten d?üş?or. ";
+
+"»ó´ë¹æÀÌ ¸Ş½ÅÁ® Ãß°¡ °ÅºÎ »óÅÂÀÔ´Ï´Ù.";
+"Oyuncu messengera eklenmeyi reddetti. ";
+
+"»ó´ë¹æÀÌ ¿Â¶óÀÎ »óÅÂ°¡ ¾Æ´Õ´Ï´Ù.";
+"Oyuncu ?vrimdış? ";
+
+"»ó´ë¹æÀÌ ÀÖ´Â °÷À¸·Î ¿öÇÁÇÒ ¼ö ¾ø½À´Ï´Ù.";
+"Bu oyuncuya ış?lanamazs?. ";
+
+"»ó´ë¹æÀÌ ÆÄÆ¼¿¡ ¼ÓÇØÀÖÁö ¾Ê½À´Ï´Ù.";
+"Oyuncu bu grupta de?l. ";
+
+"»óÀÚ°¡ °©ÀÚ±â Æø¹ßÇÏ¿´½À´Ï´Ù! »ı¸í·ÂÀÌ °¨¼ÒÇß½À´Ï´Ù.";
+"Kutuda birden patlad? HP seviyen düşt? ";
+
+"»óÀÚ¿¡¼­ %s °¡ %d °³ ³ª¿Ô½À´Ï´Ù.";
+"Kutunun i?nde %s - %d var. ";
+
+"»óÀÚ¿¡¼­ %s °¡ ³ª¿Ô½À´Ï´Ù.";
+"Kutuda %s var. ";
+
+"»óÀÚ¿¡¼­ ³ª¿Â ³ì»ö ¿¬±â¸¦ µéÀÌ¸¶½ÃÀÚ µ¶ÀÌ ¿Â¸öÀ¸·Î ÆÛÁı´Ï´Ù!";
+"E?r kutudan gelen k?m??duman?solursan, zenirlenirsin! ";
+
+"»óÀÚ¿¡¼­ ³ª¿Â »¡°£ ¿¬±â¸¦ µéÀÌ¸¶½ÃÀÚ ¿òÁ÷ÀÌ´Â ¼Óµµ°¡ ´À·ÁÁ³½À´Ï´Ù!";
+"E?r kutudan gelen k?m??duman?solursan, h?? artar! ";
+
+"»óÀÚ¿¡¼­ ¸ó½ºÅÍ°¡ ³ªÅ¸³µ½À´Ï´Ù!";
+"Kutudan bir yarat? çıkt? ";
+
+"»óÀÚ¿¡¼­ ºÎÅÍ ½ÅºñÇÑ ºûÀÌ ³ª¿É´Ï´Ù.";
+"Kutudan gizemli bir ış? geliyor. ";
+
+"»óÁ¡°úÀÇ °Å¸®°¡ ³Ê¹« ¸Ö¾î ¹°°ÇÀ» »ì ¼ö ¾ø½À´Ï´Ù.";
+"Almak i?n depodan ?k uzaks?. ";
+
+"»óÁ¡°úÀÇ °Å¸®°¡ ³Ê¹« ¸Ö¾î ¹°°ÇÀ» ÆÈ ¼ö ¾ø½À´Ï´Ù.";
+"Satmak i?n depodan ?k uzaks?. ";
+
+"»óÇ°À» ¹ŞÀ» ÀÎº¥Åä¸®°¡ ºÎÁ·ÇÕ´Ï´Ù. ÀÎº¥Åä¸®¸¦ ºñ¿öÁÖ¼¼¿ä!";
+"??ler i?n depo kapasiten yeterli de?l. ";
+
+"»ı°¢¸¸Å­ ÀĞ±â°¡ ½±Áö°¡ ¾Ê±º. ÀÌÇØµµ ¾î·Æ°í ³»¿ëµµ ³­ÇØÇØ.";
+"Bu y?tem düş?düğ?den ?k daha karış?. ";
+
+"»ı¸í·Â È¸º¹ +%d";
+"Geri Kazan?an Enerji +%d ";
+
+"¼­¹ö¿¡ Ä¡¸íÀûÀÎ ¿À·ù°¡ ¹ß»ıÇÏ¿© ÀÚµ¿À¸·Î ÀçºÎÆÃµË´Ï´Ù.";
+"Kritik sunucu hatas? Sunucu otomatik olarak yeniden başlat?acak. ";
+
+"¼±¾ÇÄ¡°¡ %d Áõ°¡ÇÏ¿´½À´Ï´Ù.";
+"R?ben y?selerek %d oldu. ";
+
+"¼±ÅÃ ¸Ê Á¤º¸ ¼ºÁö %d Åë·Î %d %d %d";
+"Haritadan kutsal alan bilgisini se?%d Giriş Yap %d %d %d; ";
+
+"¼ºº°ÀÌ ¸ÂÁö¾Ê¾Æ ÀÌ ¾ÆÀÌÅÛÀ» ¿­ ¼ö ¾ø½À´Ï´Ù.";
+"Bu eşya sadece karş?cins taraf?dan açılabilir. ";
+
+"¼ºÁö¿¡¼­ ºÎÈ° ±âÈ¸¸¦ ¸ğµÎ ÀÒ¾ú½À´Ï´Ù! ¸¶À»·Î ÀÌµ¿ÇÕ´Ï´Ù!";
+"Yeniden başlama şans??kaybettin. ?hre geri d?. ";
+
+"¼ºÁöÀÇ ¸¶¿Õ: ³ÊÈñ ";
+"Kutsal Yerin ?ytan? sen ";
+
+"¼¼±İÀÌ %d %·Î ¼³Á¤µÇ¾ú½À´Ï´Ù";
+"Vergi ayarland? %d % . ";
+
+"¼Ë´Ù¿îÀÌ %dÃÊ ³²¾Ò½À´Ï´Ù.";
+"%d saniye sonra oyun kapanacak. ";
+
+"¼ÒÀ¯ µ·ÀÌ 20¾ï³ÉÀ» ³Ñ¾î °Å·¡¸¦ ÇÛ¼ö°¡ ¾ø½À´Ï´Ù.";
+"2 milyardan fazla Yang sahibisiniz. Ticaret yapamazs??. ";
+
+"¼ÒÁö±İÀÌ ºÎÁ·ÇÏ¿© ÀÌ ¾ÆÀÌÅÛÀ» »ç¿ëÇÒ ¼ö ¾ø½À´Ï´Ù.";
+"Bu eşyay?kullanmak i?n yeterli Yang'a sahip de?lsin. ";
+
+"¼ÒÁöÇ°¿¡ ºó °ø°£ÀÌ ¾ø½À´Ï´Ù.";
+"Stun tam mekale ";
+
+"¼ÒÁöÇÏ°í ÀÖ´Â ¾ÆÀÌÅÛÀÌ ³Ê¹« ¸¹½À´Ï´Ù.";
+"?k fazla eşya taş?orsun. ";
+
+"¼ÒÄÏ Ãß°¡¿¡ ½ÇÆĞÇÏ¿´½À´Ï´Ù.";
+"Giriş eklenemedi. ";
+
+"¼ÒÄÏÀÌ ¼º°øÀûÀ¸·Î Ãß°¡µÇ¾ú½À´Ï´Ù.";
+"Giriş başar?la eklendi. ";
+
+"¼ÒÈ¯ÇÒ¼ö ¾ø´Â ¸ó½ºÅÍ ÀÔ´Ï´Ù. ¼ÒÈ¯°¡´ÉÇÑ ¸ó½ºÅÍ´Â È¨ÆäÀÌÁö¸¦ ÂüÁ¶ÇÏ¼¼¿ä";
+"Canavar ???amaz. Mob numaras??kontrol ediniz. ";
+
+"¼Ó¼º Ãß°¡¿¡ ¼º°øÇÏ¿´½À´Ï´Ù.";
+"Y?seltme başar?la eklendi. ";
+
+"¼Ó¼º Ãß°¡¿¡ ½ÇÆĞÇÏ¿´½À´Ï´Ù.";
+"Y?seltme eklenemedi. ";
+
+"¼Ó¼ºÀ» ¹Ù²ÛÁö %dºĞ ÀÌ³»¿¡´Â ´Ù½Ã º¯°æÇÒ ¼ö ¾ø½À´Ï´Ù.(%d ºĞ ³²À½)";
+"Bunu geliştirmeden  %d dakika sonra yapabilirsin. (%d Dakika kald? ";
+
+"¼Ó¼ºÀ» º¯°æÇÏ¿´½À´Ï´Ù.";
+"Y?seltmeyi de?ştirdin. ";
+
+"¼Ó¼ºÀ» º¯°æÇÒ ¼ö ¾ø´Â ¾ÆÀÌÅÛÀÔ´Ï´Ù.";
+"Bu eşyan? y?seltilmesini de?ştiremezsin. ";
+
+"¼ö¶ó°ø°İ¿¡ %d%% ÀúÇ×";
+"Sura ataklar?da %d%% Diren?";
+
+"¼ö¶ó¿¡°Ô °­ÇÔ +%d%%";
+"Suralara karş?güç + %d%% ";
+
+"¼ö·ÃÀÌ ½ÇÆĞ·Î ³¡³µ½À´Ï´Ù. ´Ù½Ã µµÀüÇØÁÖ½Ã±â ¹Ù¶ø´Ï´Ù.";
+"E?tim başar??. L?fen sonra tekrar deneyin. ";
+
+"¼ö·ÃÇÒ ¼ö ¾ø´Â ½ºÅ³ÀÔ´Ï´Ù.";
+"Bu beceriyi geliştiremezsiniz. ";
+
+"½ºÅ³ µ¥¹ÌÁö %d%%";
+"Beceri Hasar?%d%% ";
+
+"½ºÅ³ µ¥¹ÌÁö ÀúÇ× %d%%";
+"Beceri hasar?a karş?diren?%d%% ";
+
+"½ºÅ³ ·¹º§À» ³»¸®´Âµ¥ ¼º°øÇÏ¿´½À´Ï´Ù.";
+"Beceri seviyeni düş?d?. ";
+
+"½ºÅ³ ·¹º§À» ³»¸± ¼ö ¾ø½À´Ï´Ù.";
+"Beceri seviyeni düş?emezsin. ";
+
+"½ºÅÏ +%d";
+"Star +%d ";
+
+"½½·Î¿ì +%d";
+"H? azalmas?+%d ";
+
+"½Â¸¶ ¼ö·Ã¼­ ÀÌÇØ¿¡ ½ÇÆĞÇÏ¿´½À´Ï´Ù.";
+"Binicilik Rehberini anlamad?. ";
+
+"½Â¸¶ ¼ö·Ã¼­¸¦ ÀĞ¾î ½Â¸¶ ½ºÅ³ Æ÷ÀÎÆ®¸¦ ¾ò¾ú½À´Ï´Ù.";
+"Binicilik Rehberini okuduktan sonra Binicilik Puan?kazand?. ";
+
+"½ÃÃ¼·ù Å¸°İÄ¡ +%d%%";
+"Zombie karş??da sald??artış?+ %d%% ";
+
+"½Å¼ö±¹";
+"Shinsoo Krallığ?";
+
+"¾²·¯Áø »óÅÂ¿¡¼­´Â ÇÒ ¼ö ¾ø½À´Ï´Ù.";
+"Bunu düştüğ?? s?ada yapamazs??. ";
+
+"¾Æ´Ï ¾î¶»°Ô µÈ °Ô Á¾ÀÏ ÀĞ¾îµµ ¸Ó¸®¿¡ ¾È µé¾î¿À³Ä.";
+"Ayn?sat??tekrar okuyup duruyorum. ";
+
+"¾Æ¹«°Íµµ ¾òÀ» ¼ö ¾ø¾ú½À´Ï´Ù.";
+"Hi?bir şey kazanamad?. ";
+
+"¾ÆÀÌÅÛ °³·®ÈÄ %dÃÊ ÀÌ³»¿¡´Â ±ÍÈ¯ºÎ,±ÍÈ¯±â¾ïºÎ¸¦ »ç¿ëÇÒ ¼ö ¾ø½À´Ï´Ù.";
+"Ticaretten sonra %d bir yere gidemezsin. ";
+
+"¾ÆÀÌÅÛ µå·Ó·ü  %d%% Ãß°¡ ÀÌº¥Æ® ÁßÀÔ´Ï´Ù.";
+"Etkinlik ?el Duyurusu: Eşya kazan??%d%% oran?da art??d? ";
+
+"¾ÆÀÌÅÛ µå·ÓÀ² %.1f¹è";
+"Nesne bulma oran?%. 1f ";
+
+"¾ÆÀÌÅÛ ·ê·¿ ½ÃÀÛ.";
+"Nesne Ruleti Başlat. ";
+
+"¾ÆÀÌÅÛ Àü´Ş: %s ´Ô¿¡°Ô %s";
+"Eşya Ticareti:  %s, %s ";
+
+"¾ÆÀÌÅÛ È¹µæ: %s";
+"%s Kazand?. ";
+
+"¾ÆÀÌÅÛ È¹µæ: %s ´ÔÀ¸·ÎºÎÅÍ %s";
+"Kazan?an Eşya: %s, %s ";
+
+"¾ÆÀÌÅÛ·Î±×°¡ syslog ¿¡ ³²¾Ò½À´Ï´Ù";
+"Nesne loglar? sistem loglar?? i?ne yerleştirildi. ";
+
+"¾ÆÀÌÅÛÀ» °Ç³×ÁÙ ¼ö ¾ø½À´Ï´Ù.";
+"Bu nesneyle ticaret yapamazs?. ";
+
+"¾ÆÁ÷ ¸¶À»¿¡¼­ Àç½ÃÀÛ ÇÒ ¼ö ¾ø½À´Ï´Ù. (%d ÃÊ ³²À½)";
+"?hirde yeniden dirilme hen? m?k? de?l. %d saniye bekle. ";
+
+"¾ÆÁ÷ ½Â¸¶ ½ºÅ³À» ¼ö·ÃÇÒ ¼ö ÀÖ´Â ·¹º§ÀÌ ¾Æ´Õ´Ï´Ù.";
+"Binicilik E?timi i?n yeterli Seviyede de?lsin. ";
+
+"¾ÆÁ÷ ÀÌ ¸Ó¸®¸¦ »ç¿ëÇÒ ¼ö ¾ø´Â ·¹º§ÀÔ´Ï´Ù.";
+"Bu sa?şekli i?n Seviyen ?k düş?. ";
+
+"¾ÆÁ÷ Àç½ÃÀÛ ÇÒ ¼ö ¾ø½À´Ï´Ù.(%dÃÊ ³²À½)";
+"Yeniden dirilme hen? m?k? de?l. %d saniye bekle. ";
+
+"¾ÆÁ÷ Àç½ÃÀÛ ÇÒ ¼ö ¾ø½À´Ï´Ù.(%dÃÊ ³²À½ )";
+"Yeniden dirilme hen? m?k? de?l. %d saniye bekle. ";
+
+"¾ÆÁ÷ Àç½ÃÀÛ ÇÒ ¼ö ¾ø½À´Ï´Ù. (%dÃÊ ³²À½)";
+"Yeniden dirilme hen? m?k? de?l. %d saniye bekle. ";
+
+"¾Ç¸¶·ù Å¸°İÄ¡ +%d%%";
+"?ytan Karş??da sald??artış?+ %d%% ";
+
+"¾È³çÇÏ¼¼¿ä. ¸ŞÆ¾2 ÀÔ´Ï´Ù.";
+"Metin2'ye Hoşgeldin. ";
+
+"¾×¼ö°¡ 20¾ï ³ÉÀ» ÃÊ°úÇÏ¿© °Å·¡¸¦ ÇÒ¼ö°¡ ¾ø½À´Ï´Ù..";
+"2 milyardan fazla Yang'? var.Ticaret yapamazs?. ";
+
+"¾ç¼Õ°Ë ¹æ¾î %d%%";
+"?ft-El K?ıç Savunmas?%d%% ";
+
+"¾î´ÀÁ¤µµ ÀÌ ±â¼ú¿¡ ´ëÇØ ÀÌÇØ°¡ µÇ¾úÁö¸¸ Á¶±İ ºÎÁ·ÇÑµí ÇÑµ¥..";
+"Tekni? anlad?, fakat hala baz?bilgilerin yetersiz. ";
+
+"¾îºÎ¸¦ ÅëÇØ ´ÙÀ½ ·¹º§ÀÇ ³¬½Ã´ë·Î ¾÷±×·¹ÀÌµå ÇÒ ¼ö ÀÖ½À´Ï´Ù.";
+"Bal?çın? yard??la oltan?y?seltebilirsin. ";
+
+"¾òÀº Æ÷ÀÎÆ®·Î´Â ½Â¸¶ ½ºÅ³ÀÇ ·¹º§À» ¿Ã¸± ¼ö ÀÖ½À´Ï´Ù.";
+"Kazandığ? puanlarla Binicilik Beceri Seviyeni y?seltebilirsin. ";
+
+"¾ó¸¶ ¾È ³²¾Ò¾î! Á¶±İ¸¸ ´õ!";
+"Nerdeyse bitti! Sadece az?? kald? ";
+
+"¿©ÀÚ¸¸ ÇÒ ¼ö ÀÖ½À´Ï´Ù.";
+"Bunu sadece bayanlar yapabilir. ";
+
+"¿¬°è±â´Â ´õÀÌ»ó ¼ö·ÃÇÒ ¼ö ¾ø½À´Ï´Ù.";
+"Daha fazla Kombo geliştiremezsin. ";
+
+"¿­¼è°¡ ¸ÂÁö ¾Ê´Â °Í °°´Ù.";
+"Bu anahtar kilide uygun g??m?or. ";
+
+"¿­¼è´Â ¸ÂÀ¸³ª ¾ÆÀÌÅÛ ÁÖ´Â ºÎºĞ ±¸ÇöÀÌ ¾ÈµÇ¾ú½À´Ï´Ù.";
+"Do?u anahtar. ";
+
+"¿­¼è·Î ¿©´Â ¹°°ÇÀÌ ¾Æ´Ñ°Í °°´Ù.";
+"Bu eşya bir anahtarla açılamaz. ";
+
+"¿­¼è·Î Àá°Ü ÀÖ¾î¼­ ¿­¸®Áö ¾Ê´Â°Í °°´Ù. ¿­¼è¸¦ ±¸ÇØº¸ÀÚ.";
+"Kapal? Anahtar?aramal??. ";
+
+"¿­½ÉÈ÷ ÇÏ´Â ¹è¿òÀ» °¡Áö´Â °Í¸¸ÀÌ ±â¼úÀ» ¹è¿ï¼ö ÀÖ´Â À¯ÀÏÇÑ ±æÀÌ´Ù..";
+"Bu tekni? anlayabilmek i?n ?k ?lışman gerekli. ";
+
+"¿­Á¤ÀÇ °¡¸éÀ» Âø¿ë½Ã¿¡¸¸ ÇÒ ¼ö ÀÖ½À´Ï´Ù.";
+"Bunu Duygu Maskesi taktığ?da yapabilirsin. ";
+
+"¿µ¼® °¨Áö±â°¡ ½Åºñ·Î¿î ºûÀ» ³»¸ç »ç¶óÁı´Ï´Ù.";
+"Metin Taş?Dedekt??gizemli bir ış?la birlikte yok oldu. ";
+
+"¿µ¼® °¨Áö±â°¡ ÈçÀûµµ ¾øÀÌ »ç¶óÁı´Ï´Ù.";
+"Metin Taş?Dedekt??tamamen yok oldu. ";
+
+"¿¹º¹À» ÀÔÀº »óÅÂ¿¡¼­ ¸»À» Å» ¼ö ¾ø½À´Ï´Ù.";
+"Gelinlik veya Smokin giyerken ata binemezsin. ";
+
+"¿ÜÄ¡±â´Â ·¹º§ %d ÀÌ»ó¸¸ »ç¿ë °¡´É ÇÕ´Ï´Ù.";
+"???yapabilmek i?n Oyuncu passaportuna ihtiyac? var. ";
+
+"¿ë½ÅÀÇ °¡È£·Î °æÇèÄ¡°¡ ¶³¾îÁöÁö ¾Ê¾Ò½À´Ï´Ù.";
+"Ejderha Tanr?? korumas?da oldu?n i?n tecr?e kaybetmedin. ";
+
+"¿ë½ÅÀÇ º¸È£·Î ¾ÆÀÌÅÛÀÌ ¶³¾îÁöÁö ¾Ê¾Ò½À´Ï´Ù.";
+"Ejderha Tanr?? korumas?da oldu?n i?n hi?bir nesne kaybetmedin. ";
+
+"¿î¿µÀÚ Á¦Á¦·Î Ã¤ÆÃÀÌ ±İÁö µÇ¾ú½À´Ï´Ù.";
+"Sohbetiniz GM taraf?dan blokland? ";
+
+"¿õ±ÍÁ· Å¸°İÄ¡ +%d%%";
+"Wonggui karş??da sald??artış? + %d%% ";
+
+"¿ø·¡ À§Ä¡·Î º¹±Í";
+"Başlangıç yerine geri g?deriliyorsun. ";
+
+"¿ùº´ ¶Ç´Â Á¾ÀÚ ¸¦ »ç¿ëÇÏ¿´½À´Ï´Ù";
+"Tohum ya da ay pastas?kullan?d? ";
+
+"¿ùº´,Á¾ÀÚ »ç¿ëÈÄ 5ÃÊµ¿¾È »ç¿ëÇÒ¼ö ¾ø½À´Ï´Ù. ";
+"Her 5 saniyede bir Ay Pastas?kullanabilirsin. ";
+
+"À¯·áÈ­ ¾ÆÀÌÅÛÀº °³ÀÎ»óÁ¡¿¡¼­ ÆÇ¸ÅÇÒ ¼ö ¾ø½À´Ï´Ù.";
+"?el deponda Ma?za eşyalar??satamazs?. ";
+
+"À»";
+" ";
+
+"À»µÎÁö¸¦ ÅëÇÏ¿© ÀÔÀå °¡´ÉÇÕ´Ï´Ù.";
+"Uriel girmene izin verdi. ";
+
+"ÀÌ °³·®¼­·Î °³·®ÇÒ ¼ö ¾ø½À´Ï´Ù.";
+"Bu role ile y?seltemezsiniz. ";
+
+"ÀÌ °³·®¼­·Î ´õ ÀÌ»ó °³·®ÇÒ ¼ö ¾ø½À´Ï´Ù.";
+"Bu y?seltme rolesi şu anda sizin i?n uygun de?l. ";
+
+"ÀÌ °÷¿¡¼­ ¿µ¼® °¨Áö±â°¡ µ¿ÀÛÇÏÁö ¾Ê´Â°Í °°½À´Ï´Ù.";
+"Metin Taş?Dedekt???bu pozisyondayken kullanamazs?. ";
+
+"ÀÌ °÷¿¡¼± ÀÌº¥Æ®¿ë °¨Áö±â°¡ µ¿ÀÛÇÏÁö ¾Ê´Â°Í °°½À´Ï´Ù.";
+"Etkinlik dedekt???bu pozisyondayken kullanamazs?. ";
+
+"ÀÌ ¸ŞÆ¾¼®Àº ¹«±â¿¡ ºÎÂøÇÒ ¼ö ¾ø½À´Ï´Ù.";
+"Bu Taş?silaha ekleyemezsin. ";
+
+"ÀÌ ¸ŞÆ¾¼®Àº Àåºñ¿¡ ºÎÂøÇÒ ¼ö ¾ø½À´Ï´Ù.";
+"Bu taş?oraya ekleyemezsin. ";
+
+"ÀÌ ½ºÅ³Àº ¾ÆÁ÷ ±×·£µå ¸¶½ºÅÍ ¼ö·ÃÀ» ÇÒ °æÁö¿¡ ÀÌ¸£Áö ¾Ê¾Ò½À´Ï´Ù.";
+"Becerin Grand Master seviyesi i?n yeterince y?sek de?l. ";
+
+"ÀÌ ½ºÅ³Àº ¾ÆÁ÷ Ã¥À¸·Î ¼ö·ÃÇÒ °æÁö¿¡ ÀÌ¸£Áö ¾Ê¾Ò½À´Ï´Ù.";
+"Bu becerin kitap okuyarak geliştirebilmek i?n yeterli seviyede de?l. ";
+
+"ÀÌ ½ºÅ³Àº Ã¥À¸·Î ´õÀÌ»ó ¼ö·ÃÇÒ ¼ö ¾ø½À´Ï´Ù.";
+"Bu beceriyi kitap okuyarak geliştiremezsin. ";
+
+"ÀÌ ¾ÆÀÌÅÛÀ¸·Î ¼ÒÄÏÀ» Ãß°¡ÇÒ ¼ö ¾ø´Â ¾ÆÀÌÅÛÀÔ´Ï´Ù.";
+"Bu nesneye bir soket ekleyemezsin. ";
+
+"ÀÌ ¾ÆÀÌÅÛÀº PC¹æ¿¡¼­¸¸ »ç¿ëÇÒ ¼ö ÀÖ½À´Ï´Ù.";
+"Bu nesne sadece internet cafede kullan?abilir. ";
+
+"ÀÌ ¾ÆÀÌÅÛÀº °³·®ÇÒ ¼ö ¾ø½À´Ï´Ù.";
+"Bu eşya daha iyi hale gelemez. ";
+
+"ÀÌ ¾ÆÀÌÅÛÀº ÀÌ ¹æ½ÄÀ¸·Î´Â °³·®ÇÒ ¼ö ¾ø½À´Ï´Ù.";
+"Bu eşya bu şekilde y?seltilemez. ";
+
+"ÀÌ ¾ÆÀÌÅÛÀ» ÀåÂøÇÒ ¼ö ¾ø½À´Ï´Ù.";
+"Bu eşya giyilemez. ";
+
+"ÀÌ ¾×¼¼¼­¸®¿¡´Â ´õÀÌ»ó º¸¼®À» ÀåÂøÇÒ ¼ö ¾ø½À´Ï´Ù.";
+"Daha fazla M?evher eklenemez. ";
+
+"ÀÌ ¾×¼¼¼­¸®¿¡´Â ´õÀÌ»ó ¼ÒÄÏÀ» Ãß°¡ÇÒ °ø°£ÀÌ ¾ø½À´Ï´Ù.";
+"Buraya daha fazla giriş ekleyemezsin. ";
+
+"ÀÌ ¾×¼¼¼­¸®¿¡´Â ´õÀÌ»ó ÀåÂøÇÒ ¼ÒÄÏÀÌ ¾ø½À´Ï´Ù.";
+"Giriş eklemeden m?evher ekleyemezsin. ";
+
+"ÀÌ Ã¥À¸·Î´Â ´õ ÀÌ»ó ¼ö·ÃÇÒ ¼ö ¾ø½À´Ï´Ù.";
+"Bu kitapla daha fazla e?tim yapamazs?. ";
+
+"ÀÌ Ã¥Àº ³Ê¹« ¾î·Á¿ö ÀÌÇØÇÏ±â°¡ Èûµì´Ï´Ù.";
+"Bu kitab?anlamak kolay de?l. ";
+
+"ÀÌ Ã¥Àº ³Ê¹« ¾î·Á¿ö¼­ ¼ö·ÃÇÒ ¼ö ¾ø½À´Ï´Ù.";
+"Kitab? öğrenilmesi zor. ";
+
+"ÀÌ Ã¥Àº ¾Æ¹«¸® ºÁµµ µµ¿òÀÌ µÉ °Í °°Áö ¾Ê½À´Ï´Ù.";
+"Bu kitap sana yard? etmeyecek. ";
+
+"ÀÌ Ã¥À» ÀĞÀ¸·Á¸é ·¹º§À» ´õ ¿Ã·Á¾ß ÇÕ´Ï´Ù.";
+"Bu kitab?anlayabilmek i?n seviyeni y?seltmelisin. ";
+
+"ÀÌ Çàµ¿Àº »óÈ£µ¿ÀÇ ÇÏ¿¡ °¡´É ÇÕ´Ï´Ù.";
+"Bunun i?n eşinin onay?gerekli. ";
+
+"ÀÌµ¿ µÇ¾îÁú À§Ä¡¿Í ³Ê¹« °¡±î¿ö ±ÍÈ¯ºÎ¸¦ »ç¿ëÇÒ¼ö ¾ø½À´Ï´Ù.";
+"Mesafe ?k yak? oldu? i?n Geri D?üş Parş?eni kullanamazs?. ";
+
+"ÀÌµ¿¼Óµµ %d";
+"Hareket H??%d ";
+
+"ÀÌµ¿ÇÒ ÁØºñ°¡ µÇ¾îÀÖÀ½À¸·Î ±ÍÈ¯ºÎ¸¦ »ç¿ëÇÒ¼ö ¾ø½À´Ï´Ù";
+"Iş?lanmaya haz?s?, d?üş kağıd??kullanamazs?. ";
+
+"ÀÌ·¡¼­¾ß °øºÎ°¡ ¾ÈµÈ´Ù±¸.";
+"Bu yolla öğrenemiyorum. ";
+
+"ÀÌ¹Ì ²ÈÇôÀÖ´ø ¹Ì³¢¸¦ »©°í %s¸¦ ³¢¿ó´Ï´Ù.";
+"¨ú?­ì¥ıªº³½»ç¡A±¾??%s ";
+
+"? anki yemi %s ile de?ştirdin.";
+"Yanilsama zaten bir devlet var ";
+
+"ÀÌ¹Ì ¼±ÀüÆ÷°í ÁßÀÎ ±æµåÀÔ´Ï´Ù.";
+"Bu Loncaya savaş ilan ettin. ";
+
+"ÀÌ¹Ì ¿Ïº®ÇÏ°Ô ¾Ë¾ÆµéÀ» ¼ö ÀÖ´Â ¾ğ¾îÀÌ´Ù.";
+"Bu dili zaten ak??olarak konuşuyorsun. ";
+
+"ÀÌ¹Ì ÀÔÈÄº¸µÇ¾îÀÖ½À´Ï´Ù";
+"Zaten bir aday var. ";
+
+"ÀÌ¹Ì ÀüÀïÀÌ ³¡³µ½À´Ï´Ù.";
+"Savaş ?ktan sona erdi. ";
+
+"ÀÌ¹Ì ÆÄÆ¼¿¡ ¼ÓÇØ ÀÖÀ¸¹Ç·Î °¡ÀÔ½ÅÃ»À» ÇÒ ¼ö ¾ø½À´Ï´Ù.";
+"Daveti kabul edemezsin zaten bir grubun var. ";
+
+"ÀÌ¹Ì È¿°ú°¡ °É·Á ÀÖ½À´Ï´Ù.";
+"Bu etki zaten ?lış?or. ";
+
+"ÀÌ¹ÌÅõÇ¥¸¦ ÇßÀ½";
+"Zaten oy vermiştin. ";
+
+"ÀÌ¹ø¿¡ ÀâÀº ¹°°í±âÀÇ ±æÀÌ´Â %.2fcm";
+"Yakalanan balığ? uzunlu? %.2fcm. ";
+
+"ÀÌº¥Æ®¿ë °¨Áö±â°¡ ½Åºñ·Î¿î ºûÀ» ³»¸ç »ç¶óÁı´Ï´Ù.";
+"Etkinlik dedekt??gizemli bir ış?la birlikte yok oldu. ";
+
+"ÀÌº¥Æ®¿ë °¨Áö±â°¡ ÈçÀûµµ ¾øÀÌ »ç¶óÁı´Ï´Ù.";
+"Etkinlik dedekt??tamamen yok oldu. ";
+
+"ÀÌ¼º°£¿¡¸¸ ÇÒ ¼ö ÀÖ½À´Ï´Ù.";
+"Bu sadece di?r cinsle birlikte yap?abilir. ";
+
+"ÀÌÁ¦ Á» ½½½½ °¡´ÚÀÌ ÀâÈ÷´Â °Í °°Àºµ¥.";
+"?mdi anlad?! ";
+
+"ÀÌÁ¦ Ã¥ÀÇ ¸¶Áö¸· ÀåÀÌ¾ß! ¼ö·ÃÀÇ ³¡ÀÌ ´«¿¡ º¸ÀÌ°í ÀÖ¾î!";
+"Son sayfaday?! E?tim neredeyse bitmek ?ere! ";
+
+"ÀÎ°£·ù ¸ó½ºÅÍ Å¸°İÄ¡ +%d%%";
+"Yarat?lara karş?oyuncunun sald??g??+%d%% ";
+
+"ÀÎÁõ¹øÈ£°¡ Æ²·È½À´Ï´Ù. ´Ù½Ã ½ÃµµÇÏ¼¼¿ä.";
+"Onay Numaran? do?u de?l. L?fen tekrar deneyin. ";
+
+"ÀÚ°´°ø°İ¿¡ %d%% ÀúÇ×";
+"Ninja ataklar?da %d%% Diren?";
+
+"ÀÚ°´¿¡°Ô °­ÇÔ +%d%%";
+"Ninjalara karş?güç + %d%% ";
+
+"ÀÚµ¿À¸·Î ³ª°¡°ÔµË´Ï´Ù.";
+"Otomatik olarak ge?cek. ";
+
+"ÀÚ½ÅÀ» ¼±ÅÃÇÏ½Ã¸é ¹ÛÀ¸·Î ³ª°¥ ¼ö ÀÖ´Â <°ü¶÷ Á¾·á> ¹öÆ°ÀÌ ³ª¿É´Ï´Ù.";
+"Bir karakter se?rken <izlemeyi bitir> butonu g???. ";
+
+"ÀÚÀç°¡ ºÎÁ·ÇÏ¿© °Ç¼³ÇÒ ¼ö ¾ø½À´Ï´Ù.";
+"Bu binay?inşa edebilmek i?n yeterli kaynağın yok. ";
+
+"Àß¸øµÈ µĞ°© ¾ÆÀÌÅÛÀÔ´Ï´Ù.";
+"Bu yanlış ticaret eşyas? ";
+
+"Àß¸øµÈ ¼±ÅÃÀ» Çß½À´Ï´Ù";
+"Se?miniz yanlış. ";
+
+"Àá½Ã ÈÄ OX ÀÌº¥Æ®¸¦ ´Ù½Ã ½ÃÀÛÇÏ°Ú½À´Ï´Ù.";
+"K?a s?e i?nde OX Etkinlik tekrar başlayacak. ";
+
+"Àá½Ã ÈÄ ¸¶À»·Î ÀÌµ¿µÇ°Ú½À´Ï´Ù.";
+"K?a s?e i?nde oyuncu şehre ış?lanacak. ";
+
+"Àá½ÃÈÄ ¸ğµÎ ¸¶À»·Î ÀÌµ¿µË´Ï´Ù.";
+"Herkes şehre ış?lanacak. ";
+
+"Àá½ÃÈÄ ÇØ´ç ¸¶À»Àº  ¸¶À»·Î ÀÌµ¿µË´Ï´Ù.";
+"K?a zamanda herkes se?len şehre ış?lanacak. ";
+
+"ÀåÂø¿¡ ¼º°øÇÏ¿´½À´Ï´Ù.";
+"Silahlanma başar?? ";
+
+"ÀåÂø¿¡ ½ÇÆĞÇÏ¿´½À´Ï´Ù.";
+"Silahlanma başar??. ";
+
+"Àç·á(%s)°¡ ºÎÁ·ÇÕ´Ï´Ù.";
+"Yeterli malzemen yok (%s). ";
+
+"ÀúÁÖ µÇµ¹¸®±â È®·ü %d%%";
+"Lanet Yans?ma: %d%% ";
+
+"ÀûÇÕÇÏÁö ¾ÊÀº ±æµå ÀÌ¸§ ÀÔ´Ï´Ù.";
+"Lonca ismi ge?rsiz. ";
+
+"Àü±â ÀúÇ× %d%%";
+"?mşek Direnci %d%% ";
+
+"ÀüÀï ¼­¹ö°¡ ¿­·ÁÀÖÁö ¾Ê¾Æ ±æµåÀüÀ» ½ÃÀÛÇÒ ¼ö ¾ø½À´Ï´Ù.";
+"Sunucu ?vrimi? olmadığ?i?n Lonca Savaş?başlayamaz. ";
+
+"ÀüÅõ°¡ ½ÃÀÛ µÇ¾î Ãë¼Ò µÇ¾ú½À´Ï´Ù.";
+"Bir savaşa girdiniz. Çıkış iptal edildi. ";
+
+"Á¤´äÀº";
+"Do?u cevap: ";
+
+"Á¤´äÀÔ´Ï´Ù!";
+"Do?u! ";
+
+"Á¤»óÀûÀ¸·Î ÅõÇ¥¸¦ÇÏ¿´½À´Ï´Ù.";
+"D?enli olarak oylan?. ";
+
+"Á¤½Å·Â È¸º¹ +%d";
+"Geri Kazan?an Mana +%d ";
+
+"Á¶°³°¡ ÈçÀûµµ ¾øÀÌ »ç¶óÁı´Ï´Ù.";
+"?tiridye tamamen yok oldu. ";
+
+"Á¶°³¿¡¼­ µ¹Á¶°¢ÀÌ ³ª¿Ô½À´Ï´Ù.";
+"?tiridyenin i?nde Taş par?s?var. ";
+
+"Á¶°³¿¡¼­ ¹éÁøÁÖ°¡ ³ª¿Ô½À´Ï´Ù.";
+"?tiridyenin i?nde Beyaz inci var. ";
+
+"Á¶°³¿¡¼­ Ã»ÁøÁÖ°¡ ³ª¿Ô½À´Ï´Ù.";
+"?tiridyenin i?nde Mavi inci var. ";
+
+"Á¶°³¿¡¼­ ÇÇÁøÁÖ°¡ ³ª¿Ô½À´Ï´Ù.";
+"?tiridyenin i?nde Kan k?m??inci var. ";
+
+"Á¸ÀçÇÏÁö ¾Ê´Â °Ç¹°ÀÔ´Ï´Ù.";
+"Bina mevcut de?l. ";
+
+"Á¸ÀçÇÏÁö ¾Ê´Â ¾ÆÀÌÅÛ ÀÔ´Ï´Ù";
+"Bu eşya mevcut de?l. ";
+
+"Á¸ÀçÇÏÁö ¾Ê´Â Ä³¸¯ÅÍ ÀÔ´Ï´Ù.";
+"Karakter bulunamad? ";
+
+"ÁÁ¾Æ, ÀÌ ±â¼¼·Î °è¼Ó ³ª°£´Ù!";
+"Tamam, konsantre kalmal??! ";
+
+"ÁÁ¾Ò¾î! Á¶±İ¸¸ ´õ ÀĞÀ¸¸é ³¡ÀÌ´Ù!";
+"Ayd?land?! Neredeyse hepsini okudum! ";
+
+"ÁÖ¾È¼ú¼­¸¦ ÅëÇØ ÁÖÈ­ÀÔ¸¶¿¡¼­ ºüÁ®³ª¿Ô½À´Ï´Ù.";
+"K??ruhlar? lanetinden K??ruh kovma kağıd?yard??la kurtuldun. ";
+
+"Á×Àº ¸»¿¡°Ô »ç·á¸¦ ¸ÔÀÏ ¼ö ¾ø½À´Ï´Ù.";
+"??At?besleyemezsin. ";
+
+"Á×Àº Á¤º¸ %s Olu sayisi %d Imparatorluk %d saymak oldurmek %d(AMAC %d) mob sayisi oldurmek %d, yagmur bayrak %d";
+"¦º?¸ê®?%s Olu sayisi %d Imparatorluk %d saymak oldurmek %d(AMAC %d) mob sayisi oldurmek %d yagmur bayrak %d ";
+
+"Á×Áö ¾ÊÀº ¸»¿¡°Ô ¼±ÃÊ¸¦ ¸ÔÀÏ ¼ö ¾ø½À´Ï´Ù.";
+"Canl?bir at?ila?arla besleyemezsin. ";
+
+"Áö´É +%d";
+"Zeka +%d ";
+
+"Áö´ÉÀÌ ³·¾Æ Âø¿ëÇÒ ¼ö ¾ø½À´Ï´Ù.";
+"Bunu giyebilmek i?n yeterli Zeka Puan?a sahip de?lsin. ";
+
+"Á÷Á¢ Å¸°İÄ¡ ¹İ»ç È®·ü : %d%%";
+"Do?udan Vuruş Yans?ma: %d%% ";
+
+"Áø³ë±¹";
+"Jinno Krallığ?";
+
+"Âü";
+"DO?U ";
+
+"Ã¢°í¸¦ ¿¬ÈÄ %dÃÊ ÀÌ³»¿¡´Â °Å·¡¸¦ ÇÒ¼ö ¾ø½À´Ï´Ù.";
+"%d saniye i?nde tekrar ticaret yapabilirsin. ";
+
+"Ã¢°í¸¦ ¿¬ÈÄ %dÃÊ ÀÌ³»¿¡´Â ±ÍÈ¯ºÎ,±ÍÈ¯±â¾ïºÎ¸¦ »ç¿ëÇÒ ¼ö ¾ø½À´Ï´Ù.";
+"?el depo a??tan sonra %d  saniye, 'Geri D?üş' Parş?eni kullanamazs?. ";
+
+"Ã¢°í¸¦ ¿¬ÈÄ %dÃÊ ÀÌ³»¿¡´Â ´Ù¸¥°÷À¸·Î ÀÌµ¿ÇÒ¼ö ¾ø½À´Ï´Ù.";
+"Depo a??tan sonra %d saniye bir yere gidemezsin. ";
+
+"Ã¤±¤¿¡ ¼º°øÇÏ¿´½À´Ï´Ù.";
+"Madencilik başar?? ";
+
+"Ã¤±¤¿¡ ½ÇÆĞÇÏ¿´½À´Ï´Ù.";
+"Madencilik başar??. ";
+
+"Ã¤±¤À» Áß´ÜÇÏ¿´½À´Ï´Ù.";
+"Madencilik bitti. ";
+
+"Ã¤ÆÃ ±İÁö »óÅÂÀÔ´Ï´Ù.";
+"Sohbetiniz engellendi. ";
+
+"Ã¤ÆÃ ±İÁö°¡ Ç®·È½À´Ï´Ù.";
+"Sohbet blokunuz kald??d? ";
+
+"Ã¥À¸·Î ´õ ³ôÀº °æÁöÀÇ ¼ö·ÃÀ» ¼º°øÀûÀ¸·Î ³¡³»¼Ì½À´Ï´Ù.";
+"Kitapla olan e?timini başar?la tamamlad?. ";
+
+"Ã¥Àåµµ ÀÌÁ¦ ¾ó¸¶ ³²Áö ¾Ê¾Ò±º.";
+"Sadece bir ka?sayfa kald? ";
+
+"ÃµÁ¶±¹";
+"Chunjo Krallığ?";
+
+"Ã»¼ÒÇÒ ¼®ÀÌ ¹ÚÇôÀÖÁö ¾Ê½À´Ï´Ù.";
+"Burada temizlenecek taş yok. ";
+
+"Ã¼·Â +%d";
+"Dayan?l?? +%d ";
+
+"Ã¼·ÂÀÌ ³·¾Æ Âø¿ëÇÒ ¼ö ¾ø½À´Ï´Ù.";
+"Bunu kullanmak i?n yeterli dirili? sahip de?lsin. ";
+
+"ÃÑ ÄûÁî ¼ö: %d";
+"Toplam Quiz say?? %d ";
+
+"ÃÖ´ë »ı¸í·Â +%d";
+"Canl?? Puanlar?+%d ";
+
+"ÃÖ´ë »ı¸í·Â +%d%%";
+"Enerji ?t s???+%d%% ";
+
+"ÃÖ´ë Á¤½Å·Â +%d";
+"Mana Puanlar?+%d ";
+
+"ÃÖ´ë Á¤½Å·Â +%d%%";
+"Enerji ?t s???+%d%% ";
+
+"ÃÖ´ë Áö±¸·Â +%d";
+"Azami Dayan?l?? + %d ";
+
+"Ãàº¹ÀÇ ¼­¿Í ÇöÃ¶À» ÇÕÄ¥ ¼ö ÀÖ½À´Ï´Ù.";
+"Role:Kutsama kağıd?ve B???metal birleştirilebilir. ";
+
+"Ãâ¸¶¸¦ ÇÒ¼ö°¡ ¾ø½À´Ï´Ù";
+"Oylanamaz. ";
+
+"Ãë¼Ò µÇ¾ú½À´Ï´Ù.";
+"Çıkış?? iptal edildi. ";
+
+"Ä³¸¯ÅÍ¸¦ ÀüÈ¯ ÇÕ´Ï´Ù. Àá½Ã¸¸ ±â´Ù¸®¼¼¿ä.";
+"Karakter de?ştirdiniz. L?fen bekleyin. ";
+
+"ÄğÅ¸ÀÓ -%d";
+"Dinlenme S?esi -%d ";
+
+"Äù½ºÆ®¸¦ ·ÎµåÇÏ´Â ÁßÀÔ´Ï´Ù. Àá½Ã¸¸ ±â´Ù·Á ÁÖ½Ê½Ã¿À.";
+"?te?niz y?leniyor. L?fen sab?l?olunuz. ";
+
+"Å©À¹, ±â°¡ ¿ª·ùÇÏ°í ÀÖ¾î! ÀÌ°Å ¼³¸¶ ÁÖÈ­ÀÔ¸¶ÀÎ°¡!? Á¨Àå!";
+"?lışmad? Lanet olsun! ";
+
+"Å¬¶óÀÌ¾ğÆ® ¹öÀüÀÌ Æ²·Á ·Î±×¾Æ¿ô µË´Ï´Ù. Á¤»óÀûÀ¸·Î ÆĞÄ¡ ÈÄ Á¢¼ÓÇÏ¼¼¿ä.";
+"?temci versionunuz hatal? L?fen normal s???y?leyin. ";
+
+"Å¸°İÄ¡ %d%% ¸¦ »ı¸í·ÂÀ¸·Î Èí¼ö";
+"Sald??s?as?da %d%% enerji emildi. ";
+
+"Å¸·ÂÄ¡ %d%% ¸¦ Á¤½Å·ÂÀ¸·Î Èí¼ö";
+"Sald??s?as?da %d%% mana emildi. ";
+
+"Å¸Á¦±¹ À¯Àú´Â ¼ÒÈ¯ ÇÒ¼ö ¾ø½À´Ï´Ù";
+"Bilinmeyen bir oyuncuyu arayamazs?. ";
+
+"Å¸Á¦±¹ À¯Àú¿¡°Ô´Â ÀÌµ¿ÇÒ¼ö ¾ø½À´Ï´Ù";
+"Bilinmeyen bir oyuncuya nakledemezsiniz. ";
+
+"Åº »óÅÂ¿¡¼­´Â ÇÒ ¼ö ¾ø½À´Ï´Ù.";
+"Bunu at ?erinde yapamazs??. ";
+
+"ÆÄÆ¼ ÁßÀÌ ¾Æ´Õ´Ï´Ù.";
+"Bu Grupta de?lsin. ";
+
+"ÆÄÆ¼ÀÇ Çùµ¿·ÂÀÌ ³ô¾ÆÁ® Áö±İºÎÅÍ Ãß°¡ °æÇèÄ¡ º¸³Ê½º¸¦ ¹Ş½À´Ï´Ù.";
+"Grubunuz birlikte ?lışt?ve tecr?e puan?kazand? ";
+
+"ÆÄÆ¼ÀåÀÌ Á¢¼Ó »óÅÂ°¡ ¾Æ´Ï¶ó¼­ ¿äÃ»À» ÇÒ ¼ö ¾ø½À´Ï´Ù.";
+"<Grup> ?tekte bulunamazs? çünk?grup lideri ?vrim i? de?l. ";
+
+"ÆÇ¸Å±İ¾×ÀÇ %d %% °¡ ¼¼±İÀ¸·Î ³ª°¡°ÔµË´Ï´Ù";
+"%d%% satış vergisiyle. ";
+
+"ÆÛÆåÆ® ¸¶½ºÅÍµÈ ½ºÅ³ÀÔ´Ï´Ù. ´õ ÀÌ»ó ¼ö·Ã ÇÒ ¼ö ¾ø½À´Ï´Ù.";
+"Zaten bu beceride master konumundas?. Onu geliştiremezsin. ";
+
+"ÆòÅ¸ µ¥¹ÌÁö %d%%";
+"Vuruş Hasar?%d%% ";
+
+"ÆòÅ¸ µ¥¹ÌÁö ÀúÇ× %d%%";
+"Vuruş direnci %d%% ";
+
+"ÇÃ·¹ÀÌ¾î %d ¿Í ÇÃ·¹ÀÌ¾î  %d¸¦ ÆÄÈ¥½ÃÅµ´Ï´Ù..";
+"%d ve %d oyuncular?aras?daki anlaşma bozuldu. ";
+
+"ÇÑ¼Õ°Ë ¹æ¾î %d%%";
+"K?ıç Savunmas?%d%% ";
+
+"ÇØ´ç À¯Àú´Â %d Ã¤³Î¿¡ ÀÖ½À´Ï´Ù. (ÇöÀç Ã¤³Î %d)";
+"Oyuncu %d kanala ekleniyor. (Bulunulan kanal: %d) ";
+
+"ÇÚµåÆù ¹øÈ£°¡ µî·Ï µÇ¾ú½À´Ï´Ù.";
+"Cep telefonu numaras?kay?l? ";
+
+"ÇÚµåÆù ¹øÈ£°¡ µî·ÏµÇ¾î ÀÖÁö ¾Ê½À´Ï´Ù.";
+"Cep telefonu numaras?kay?l?de?l. ";
+
+"ÇöÀç %s ±¹°í¿¡´Â %d ÀÇ µ·ÀÌ ÀÖ½À´Ï´Ù";
+"%s hala %d Yang sahibi ";
+
+"ÇöÀç %s ±¹°í¿¡´Â %lu ÀÇ µ·ÀÌ ÀÖ½À´Ï´Ù";
+"%s hala %lu Yang sahibi. ";
+
+"ÇöÀç ³²Àº Âü°¡ÀÚ¼ö : %d";
+"Di?r Kat??c?ar? say??: %d ";
+
+"ÇöÀç ½ºÄÚ¾î ½Å¼ö±¹:%d ÃµÁ¶±¹:%d Áø³ë±¹:%d";
+"%s ??say??%d imparatorluk %d ?d?me say??%d(hedeflenen %d) ?d??enmob %d, Elege?rilenbayrak %d ";
+
+"ÇöÀç ¿Â¶óÀÎ »óÅÂ ÀÔ´Ï´Ù. ±Ó¸»À» ÀÌ¿ëÇÏ¼¼¿ä.";
+"Oyuncu online. L?fen f??t?kullan?. ";
+
+"ÇöÀç À§Ä¡¿¡¼­ »ç¿ëÇÒ ¼ö ¾ø½À´Ï´Ù.";
+"? anki pozisyonunda bunu kullanamazs?. ";
+
+"ÇöÀç ÀÌº¥Æ® Âü°¡ÀÚ ºĞµéÀº ¸¶À»·Î ÀÌµ¿ µÇ°Ú½À´Ï´Ù.";
+"Su anda haraket edecek yer ";
+
+"ÇöÀç ÀüÀïÁßÀÎ ±æµå ÀÔ´Ï´Ù";
+"Bu lonca savaşta. ";
+
+"ÇöÀç Çì¾î½ºÅ¸ÀÏ¿¡¼­´Â ¿°»ö°ú Å»»öÀÌ ºÒ°¡´ÉÇÕ´Ï´Ù.";
+"? anki sa?stilini beyazlatamazs? veya boyayamazs?. ";
+
+"È­¿° ÀúÇ× %d%%";
+"Ateş Direnci %d%% ";
+
+"È° °ø°İ È¸ÇÇ È®·ü %d%%";
+"Uzak d?üş sald????engelleme şans?%d%% ";
+
+"È°°ø°İ ÀúÇ× %d%%";
+"Uzak D?üş Direnci %d%% ";
+
+"%d ±ÇÀ» ´õ ÀĞ¾î¾ß ¼ö·ÃÀ» ¿Ï·á ÇÒ ¼ö ÀÖ½À´Ï´Ù.";
+"Bu beceriyi geliştirebilmek i?n %d kitap daha okumal??. ";
+
+"<±æµå> Àá½ÃÈÄ¿¡ ÀÌ¿ëÇØÁÖ½Ê½Ã¿À";
+"<Lonca> L?fen daha sonra tekrar deneyin. ";
+
+"¼º¿¡¼­¸¸ »ç¿ëÇÒ ¼ö ÀÖ´Â ±â´ÉÀÔ´Ï´Ù.";
+"Bu ?elli? sadece kaledeyken kullanabilirsin. ";
+
+"TEST : È²±İµÎ²¨ºñ°¡ ±¹°í·Î È¯¿øµÇ¾ú½À´Ï´Ù.";
+"TEST: Alt? k?? krallığ??? g?enli b?gesine geri ?endi. ";
+
+"TEST : ÇöÀç ±¹°í : %d";
+"TEST: Krallığ??? g?enli b?gesinde bulunan: %d ";
+
+"TEST : È²±İµÎ²¨ºñ¸¦ ±¹°í·Î È¯¿øÇÒ ¼ö ¾ø½À´Ï´Ù.";
+"TEST: Alt? k??yi krallığ??? g?enli b?gesine g?derme yetkiniz yok. ";
+
+"¹«·á °³·® ±âÈ¸´Â 20 ÀÌÇÏÀÇ ¹«±â¸¸ °¡´ÉÇÕ´Ï´Ù";
+"?retsiz silah eklentileri ancak seviye 20 ye kadar olan silahlarda kullan?abilir. ";
+
+"±ºÁ÷ÀÌ ¸ÂÁö¾Ê¾Æ ÀÌ ¾ÆÀÌÅÛÀ» »ç¿ëÇÒ ¼ö ¾ø½À´Ï´Ù.";
+"Gerekli ?elliklere sahip olmadığ? i?n bu eşyay?kullanamazs?. ";
+
+"¼ºº°ÀÌ ¸ÂÁö¾Ê¾Æ ÀÌ ¾ÆÀÌÅÛÀ» »ç¿ëÇÒ ¼ö ¾ø½À´Ï´Ù.";
+"Do?u cinsiyette olmadığ?? i?n bu eşyay?kullanamazs??. ";
+
+"»ç¿ë¹ı: transfer <name>";
+"Kullan: ilet <name> ";
+
+"±ºÁÖ¸¸ÀÌ »ç¿ë °¡´ÉÇÑ ±â´ÉÀÔ´Ï´Ù";
+"Bu ?ellik sadece ?parator taraf?dan kullan?abilir. ";
+
+"´Ù¸¥ Á¦±¹ À¯Àú´Â ¼ÒÈ¯ÇÒ ¼ö ¾ø½À´Ï´Ù.";
+"Başka krall?tan olan oyuncular?iyileştiremezsin. ";
+
+"%s ´ÔÀº %d Ã¤³Î¿¡ Á¢¼Ó Áß ÀÔ´Ï´Ù. (ÇöÀç Ã¤³Î: %d)";
+"%s şuanda %s kanal?da. (Kanal??: %d) ";
+
+"%s ´ÔÀ» ¼ÒÈ¯ÇÏ¿´½À´Ï´Ù.";
+"%s oyuncular?iyileştirdin. ";
+
+"ÀÔ·ÂÇÏ½Å ÀÌ¸§À» °¡Áø »ç¿ëÀÚ°¡ ¾ø½À´Ï´Ù.";
+"Bu isimde bir kullan??yok. ";
+
+"ÀÚ½ÅÀ» ¼ÒÈ¯ÇÒ ¼ö ¾ø½À´Ï´Ù.";
+"Kendinizi iyileştiremezsiniz. ";
+
+"Ã¢°í,°Å·¡Ã¢µîÀÌ ¿­¸° »óÅÂ¿¡¼­´Â °³·®À» ÇÒ¼ö°¡ ¾ø½À´Ï´Ù";
+"Ma?za veya ticaret ekran?açık iken y?seltme yapamazs?. ";
+
+"%sÀÇ ±ºÁÖ°¡ %s ´ÔÀ¸·Î ±³Ã¼µÇ¾ú½À´Ï´Ù.";
+"%s ?paratoru %s oldu. ";
+
+"%s¿¡¼­ ºÀÈ­¸¦ µÑ·¯½Î°í ÀüÅõ°¡ ÁøÇàÁßÀÔ´Ï´Ù.";
+"Ateşleri yakmak i?n %s savaşlar?var. ";
+
+"%sÀÌ ¼ö¼º¿¡ ¼º°øÇß½À´Ï´Ù.";
+"%s başar?la savundu. ";
+
+"Áö±İºÎÅÍ %sÀº 30ºĞ°£ ºÀÈ­¸¦ ÆÄ±«ÇÏ¿© º¸»óÀ» È¹µæ ÇÒ ¼ö ÀÖ½À´Ï´Ù.";
+"%s ateşi yoketti? i?n şu andan itibaren 30 dakika boyunca bir ?? alabilir. ";
+
+"30ºĞÀÌ °æ°úÇß½À´Ï´Ù.. ºÀÈ­°¡ »ç¶óÁı´Ï´Ù.";
+"30 dakika doldu. Ateşler yok oldu. ";
+
+"%s¿¡ ÀüÀïÀÇ ½ÃÀÛÀ» ¾Ë¸®´Â ºÀÈ­°¡ ³ªÅ¸³µ½À´Ï´Ù.";
+"%s de savaş y??den bir uyar?ateşi yak?d? ";
+
+"%sÀÌ ºÀÈ­¸¦ ÆÄ±«Çß½À´Ï´Ù.";
+"%s ateşi yoketti. ";
+
+"%sÀÌ ¼ö¼º¿¡ ½ÇÆĞÇÏ¿© ÀüÀï¿¡ ÆĞ¹èÇÏ¿´½À´Ï´Ù..";
+"%s kaleyi koruyamadığ?i?n savaş?kaybetti. ";
+
+"%sÀÌ ¸ğµç ºÀÈ­¸¦ ÆÄ±«ÇÏ¿´½À´Ï´Ù.";
+"%s ateşi yoketti. ";
+
+"ÄğÅ¸ÀÓ Àû¿ëÁß  %d ÈÄ »ç¿ë°¡´É";
+"Haz?land? %d sonra kullan?abilir. ";
+
+"¾ÆÀÌÅÛÀÇ ·¹º§ Á¦ÇÑº¸´Ù ·¹º§ÀÌ ³·½À´Ï´Ù.";
+"Seviyen eşyan? geliştirmeden sonraki seviyesinden düş?. ";
+
+"¾ÆÀÌÅÛÀÌ ³ª¿Ã È®·ü";
+"Eşya düş?me oran?";
+
+"µ·ÀÌ ³ª¿Ã È®·ü";
+"Yang elde etme oran?";
+
+"µ· ´ë¹ÚÀÌ ³ª¿Ã È®·ü";
+"Yang elde etme oran?";
+
+"°æÇèÄ¡ ¹èÀ²";
+"Tecr?e kazan? oran?";
+
+"ÀüÁ¦±¹ ;";
+"T? imparatorluklar ";
+
+"º¯½ÅÁß¿¡´Â Ã¥À» ÀĞÀ»¼ö ¾ø½À´Ï´Ù.";
+"Becerileri karşilaştirilamaz ";
+
+"°©¿ÊÀ» ¹ş¾î¾ß °³ÀÎ »óÁ¡À» ¿­ ¼ö ÀÖ½À´Ï´Ù.";
+"Pazar kurmak i?n l?fen z?h???çıkar? ; ";
+
+"¸»Åº »óÅÂ¿¡¼­ ¿¹º¹À» ÀÔÀ» ¼ö ¾ø½À´Ï´Ù.";
+"Bu eşyayi,giyinemem ";
+
+"ÀÌ¹Ì Á¦Á¶Ã¢ÀÌ ¿­·ÁÀÖ½À´Ï´Ù.";
+"?şa penceresi zaten açık. ";
+
+"Á¦Á¶ Àç·á°¡ ºÎÁ·ÇÕ´Ï´Ù";
+"Do?u maddeye sahip de?lsiniz. ";
+
+"Á¦Á¶Ã¢ÀÌ ¿­·ÁÀÖÁö ¾Ê½À´Ï´Ù";
+"?şa penceresi açık de?l. ";
+
+"<±æµå> ±æµåÀü Áß¿¡´Â ±æµå ¿øÀ» Å»Åğ½ÃÅ³¼ö°¡ ¾ø½À´Ï´Ù";
+"<Lonca> Loncaya sald?amazs?. ";
+
+"<±æµå> »ó´ë¹æ ±æµåÀÇ ±æµåÀåÀÌ Á¢¼ÓÁßÀÌ ¾Æ´Õ´Ï´Ù.";
+"<Lonca> Lonca lideri online de?l. ";
+
+"¸»À» Åº »óÅÂ¿¡¼­ °¨Á¤Ç¥ÇöÀ» ÇÒ ¼ö ¾ø½À´Ï´Ù.";
+"ifadeyi kullanamam ";
+
+"¸»À» Åº »ó´ë¿Í °¨Á¤Ç¥ÇöÀ» ÇÒ ¼ö ¾ø½À´Ï´Ù.";
+"Bu beceriyi kullanamam ";
+
+"ÀÌ¹Ì Å»°ÍÀ» ÀÌ¿ëÁßÀÔ´Ï´Ù.";
+"?ce binekten in. ";
+
+"´õ ÀÌ»ó ÀÌ ¾ÆÀÌÅÛÀ¸·Î ¼Ó¼ºÀ» Ãß°¡ÇÒ ¼ö ¾ø½À´Ï´Ù";
+"Daha fazla y?seltme eklenemez.  ; ";
+
+"¼º°øÀûÀ¸·Î ¼Ó¼ºÀÌ Ãß°¡ µÇ¾ú½À´Ï´Ù";
+"2. Y?seltme ekleme başar?? ";
+
+"%sÀÌ ÇÊ¿äÇÕ´Ï´Ù.";
+"Gerekli eşya: %s ";
+
+"%d ½Ã°£ %d ºĞ %d ÃÊ µ¿¾È Ã¤ÆÃ±İÁö »óÅÂÀÔ´Ï´Ù";
+"Sohbet engellendi. Kalan s?e: %d Saat %d Dakika %d Saniye ";
+
+"%d ºĞ %d ÃÊ µ¿¾È Ã¤ÆÃ±İÁö »óÅÂÀÔ´Ï´Ù";
+"Sohbet engellendi. Kalan s?e: %d Dakika %d Saniye ";
+
+"%d ÃÊ µ¿¾È Ã¤ÆÃ±İÁö »óÅÂÀÔ´Ï´Ù";
+"Sohbet engellendi. Kalan s?e: %d Saniye ";
+
+"<±æµå> ÇöÀç ±æµå°¡ ÀüÀï Áß ÀÔ´Ï´Ù.";
+"<Lonca> Lonca savaş?devam ederken ?e al??yap?amaz. ";
+
+"º¯°æ ½ÃÅ³ ¼Ó¼ºÀÌ ¾ø½À´Ï´Ù";
+"Bunu de?ştiremezsin. ";
+
+"<±æµå> %uÀÇ °æÇèÄ¡¸¦ ÅõÀÚÇÏ¿´½À´Ï´Ù.";
+"<Lonca> Tecr?e Kullan?? %u. ";
+
+"<±æµå> %uÀÇ ¿ë½Å·ÂÀ» È¸º¹ÇÏ¿´½À´Ï´Ù.";
+"<Lonca> Ejderha Ruhu: %u. ";
+
+"<±æµå> ±æµå°¡ ÀÌ¹Ì ÃÖ°í ·¹º§ÀÔ´Ï´Ù.";
+"<Lonca> Lonca maximum seviyeye ulaşmış. ";
+
+"´ç½ÅÀÌ ÁÖ»çÀ§¸¦ ±¼·Á %d°¡ ³ª¿Ô½À´Ï´Ù. (%d-%d)";
+"Zar att?. Sonu?%d (%d-%d) ";
+
+"%s´ÔÀÌ ÁÖ»çÀ§¸¦ ±¼·Á %d°¡ ³ª¿Ô½À´Ï´Ù. (%d-%d)";
+"%s zar att? Sonu?%d (%d-%d) ";
+
+"%s ±æµå°¡ %s ±æµå¿¡ ¼±ÀüÆ÷°í¸¦ ÇÏ¿´½À´Ï´Ù!";
+"%s, %s loncas?a karş?savaş ilan etti! ";
+
+"»ç¿ëÇÒ¼ö ¾ø½À´Ï´Ù.";
+"Bunu yapamam. ";
+
+"%sÀÇ %sÀÌ %d%% Áõ°¡Çß½À´Ï´Ù!";
+"%s i?n %s oran?%d%% artt? ";
+
+"¾ÆÀÌÅÛÀÌ ³ª¿Ã È®·ü";
+"Eşya ";
+
+"½Å¼ö±¹";
+"Duyuru ";
+
+"¾ÆÁ÷ »ç¿ëÇÒ ¼ö ¾ø½À´Ï´Ù.";
+"Bunu hen? kullanamam. ";
+
+"»©³¾ ¿µ¼®ÀÌ ¾ø½À´Ï´Ù";
+"Bu eşyada çıkar?acak bir ruh taş?yok. ";
+
+"¾²·¯Áø »óÅÂ¿¡¼­´Â ¸»¿¡ Å» ¼ö ¾ø½À´Ï´Ù.";
+"Bu hayvana binmek i?n yeterince güçl?de?lsin. ";
+
+"µĞ°©ÇÒ ¼ö ¾ø´Â »óÅÂÀÔ´Ï´Ù.";
+"Bilinmiyor... ";
+
+"¸»À» Åº »óÅÂ¿¡¼­ ¿¹º¹À» ÀÔÀ» ¼ö ¾ø½À´Ï´Ù.";
+"Binek ?erindeyken düğ? giysilerini giyemezsin. ";
+
+"ÀÌ¹Ì µĞ°©ÁßÀÎ »óÅÂÀÔ´Ï´Ù.";
+"----------------------------------------------- ";
+
+"³¬½Ã¸¦ ÇÒ ¼ö ÀÖ´Â °÷ÀÌ ¾Æ´Õ´Ï´Ù";
+"Burada bal? tutamazs?. ";
+
+"<Ã¢°í> Ã¢°í·Î ¿Å±æ ¼ö ¾ø´Â ¾ÆÀÌÅÛ ÀÔ´Ï´Ù.";
+"<Depo> -------------------- yapamazs?. ";
+
+"ÀÌ¹Ì µĞ°©ÁßÀÎ »óÅÂÀÔ´Ï´Ù.";
+"---------------------------- ";
+
+"Àû¿ë ·¹º§º¸´Ù ³ô¾Æ »ç¿ëÀÌ ºÒ°¡´ÉÇÕ´Ï´Ù.";
+"Bu nesne ?erinde bu işlemi ger?kleştiremezsin. ";
+
+"Âø¿ë ÁßÀÎ ¾ÆÀÌÅÛÀº ÆÇ¸ÅÇÒ ¼ö ¾ø½À´Ï´Ù.";
+"LOCALE_STRING AYIKLAMA SISTEMI [ HATA KODU: 001 ] ";
+
+"¹«±â¿Í °©¿Ê¿¡¸¸ »ç¿ë °¡´ÉÇÕ´Ï´Ù.";
+"LOCALE_STRING AYIKLAMA SISTEMI [ HATA KODU: 002 ] ";
+
+"DEPODAN_KEMER_ENVANTERINE_NESNE_YERLESTIREMEZSIN";
+"Depodan kemer envanterine nesne yerleşt?emezsin. ";
+
+"AFFECTS_NOT_LOADED";
+"L?fen bekleyiniz. ";
+
+"EVENT_FLAG_WAIT";
+"Bunu yapmadan ?ce biraz sabret... ";
+
+"OPEN_EXP_EARNINGS";
+"?ce deneyim puan?kazan??a? ";
+
+"PKCHR_BLOCK_PVP";
+"D?lloyu blokladığ?? i?n savaşamazs??. ";
+
+"PKVICTIM_BLOCK_PVP";
+"Oyuncu d?lloyu blokladığ?i?n savaşamazs??. ";
+
+"OXEVENT_SKILL_BLOCK";
+"Bu haritada becerilerini kullanamazs?. ";
+
+"CHANGED_CHANNEL";
+"Kanal de?ştirdin. L?fen bekle. ";
+
+"The sash window it's already opened.";
+"Kuşak penceresi zaten açık. ";
+
+"Before you may close the sash absorption window.";
+"?ce bonus emiş penceresini kapat. ";
+
+"Before you may close the sash combine window.";
+"?ce kombinasyon penceresini kapat. ";
+
+"You can't add locked items.";
+"Kilitli nesneleri ekleyemezsin. ";
+
+"You can't add binded items.";
+"Ruha ba??nesneleri ekleyemezsin. ";
+
+"You can combine just sashes of same grade.";
+"Sadece ayn?s?? kuşaklar?kombine edebilirsin. ";
+
+"This sash got already maximum absorption chance.";
+"Kuşak zaten maksimum emiş derecesine sahip. ";
+
+"You can absorb just the bonuses from armors and weapons.";
+"Sadece silah ve z?hlardan bonus elde edebilirsin. ";
+
+"You don't have enough Yang.";
+"Yeterli yang yok. ";
+
+"New absorption rate: %d%";
+"Yeni emiş derecesi: %d% ";
+
+"Success.";
+"Başar?? ";
+
+"Failed.";
+"Başar??. ";
+
+"This item is already binded.";
+"Nesne zaten ruha ba?? ";
+
+"This item is until unbind process.";
+"Nesne ruhtan ayr?mak ?ere. ";
+
+"You have bind succesfully this item.";
+"Nesne başar?la ruha ba?and? ";
+
+"This item is not binded.";
+"Nesne ruha ba??de?l. ";
+
+"You have unbinded succesfully this item, this process require 3 days.";
+"Ruhtan ay?ma başar?? Nesne 24 saat i?nde ruhtan ayr?acak. ";
+
+"You can't exchange this item because is binded!";
+"Ruha ba??nesneleri takasta kullanamazs?! ";
+
+"You can't sell this item because is binded!";
+"Ruha ba??nesneleri satamazs?! ";
+
+"You can't refine this item because is binded!";
+"Ruha ba??nesneleri y?seltemezsin! ";
+
+"This item can't be binded.";
+"Bu nesne ruha ba?anamaz. ";
+
+"You can't drop this item because is binded!";
+"Ruha ba??nesneleri yere düş?emezsin! ";
+
+"You can't do this because this item is binded.";
+"Bunu yapamazs?, nesne ruha ba?? ";
+
+"You can't do this because this until unbind process.";
+"Bunu yapamazs?, nesne ruhtan ayr?mak ?ere. ";
